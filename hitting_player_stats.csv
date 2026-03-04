@@ -1,0 +1,1579 @@
+,Year,Statistic,Name,Team,Value
+0,1901,Base on Balls,Dummy Hoy,Chicago,86
+1,1901,Batting Average,Nap Lajoie,Philadelphia,.426
+2,1901,Doubles,Nap Lajoie,Philadelphia,48
+3,1901,Hits,Nap Lajoie,Philadelphia,232
+4,1901,Home Runs,Nap Lajoie,Philadelphia,14
+5,1901,On Base Percentage,Nap Lajoie,Philadelphia,.463
+6,1901,RBI,Nap Lajoie,Philadelphia,125
+7,1901,Runs,Nap Lajoie,Philadelphia,145
+8,1901,Slugging Average,Nap Lajoie,Philadelphia,.643
+9,1901,Stolen Bases,Frank Isbell,Chicago,52
+10,1901,Total Bases,Nap Lajoie,Philadelphia,350
+11,1901,Triples,Bill Keister,Baltimore,21
+12,1901,Triples,Jimmy Williams,Baltimore,21
+13,1902,Base on Balls,Topsy Hartsel,Philadelphia,87
+14,1902,Batting Average,Ed Delahanty,Washington,.376
+15,1902,Doubles,Harry Davis,Philadelphia,43
+16,1902,Doubles,Ed Delahanty,Washington,43
+17,1902,Hits,Charlie Hickman,Boston,193
+18,1902,Hits,Charlie Hickman,Cleveland,193
+19,1902,Home Runs,Socks Seybold,Philadelphia,16
+20,1902,On Base Percentage,Ed Delahanty,Washington,.453
+21,1902,RBI,Buck Freeman,Boston,121
+22,1902,Runs,Dave Fultz,Philadelphia,109
+23,1902,Runs,Topsy Hartsel,Philadelphia,109
+24,1902,Slugging Average,Ed Delahanty,Washington,.590
+25,1902,Stolen Bases,Topsy Hartsel,Philadelphia,47
+26,1902,Total Bases,Charlie Hickman,Boston,288
+27,1902,Total Bases,Charlie Hickman,Cleveland,288
+28,1902,Triples,Jimmy Williams,Baltimore,21
+29,1903,Base on Balls,Jimmy Barrett,Detroit,74
+30,1903,Batting Average,Nap Lajoie,Cleveland,.344
+31,1903,Doubles,Socks Seybold,Philadelphia,45
+32,1903,Hits,Patsy Dougherty,Boston,195
+33,1903,Home Runs,Buck Freeman,Boston,13
+34,1903,On Base Percentage,Jimmy Barrett,Detroit,.407
+35,1903,RBI,Buck Freeman,Boston,104
+36,1903,Runs,Patsy Dougherty,Boston,107
+37,1903,Slugging Average,Nap Lajoie,Cleveland,.518
+38,1903,Stolen Bases,Harry Bay,Cleveland,45
+39,1903,Total Bases,Buck Freeman,Boston,281
+40,1903,Triples,Sam Crawford,Detroit,25
+41,1904,Base on Balls,Jimmy Barrett,Detroit,79
+42,1904,Batting Average,Nap Lajoie,Cleveland,.376
+43,1904,Doubles,Nap Lajoie,Cleveland,49
+44,1904,Hits,Nap Lajoie,Cleveland,211
+45,1904,Home Runs,Harry Davis,Philadelphia,10
+46,1904,On Base Percentage,Nap Lajoie,Cleveland,.413
+47,1904,RBI,Nap Lajoie,Cleveland,102
+48,1904,Runs,Patsy Dougherty,Boston,113
+49,1904,Runs,Patsy Dougherty,New York,113
+50,1904,Slugging Average,Nap Lajoie,Cleveland,.552
+51,1904,Stolen Bases,Harry Bay,Cleveland,38
+52,1904,Stolen Bases,Elmer Flick,Cleveland,38
+53,1904,Total Bases,Nap Lajoie,Cleveland,305
+54,1904,Triples,Joe Cassidy,Washington,19
+55,1904,Triples,Buck Freeman,Boston,19
+56,1904,Triples,Chick Stahl,Boston,19
+57,1905,Base on Balls,Topsy Hartsel,Philadelphia,121
+58,1905,Batting Average,Elmer Flick,Cleveland,.308
+59,1905,Doubles,Harry Davis,Philadelphia,47
+60,1905,Hits,George Stone,St. Louis,187
+61,1905,Home Runs,Harry Davis,Philadelphia,8
+62,1905,On Base Percentage,Topsy Hartsel,Philadelphia,.409
+63,1905,RBI,Harry Davis,Philadelphia,83
+64,1905,Runs,Harry Davis,Philadelphia,93
+65,1905,Slugging Average,Elmer Flick,Cleveland,.462
+66,1905,Stolen Bases,Danny Hoffman,Philadelphia,46
+67,1905,Total Bases,George Stone,St. Louis,259
+68,1905,Triples,Elmer Flick,Cleveland,18
+69,1906,Base on Balls,Topsy Hartsel,Philadelphia,88
+70,1906,Batting Average,George Stone,St. Louis,.358
+71,1906,Doubles,Nap Lajoie,Cleveland,48
+72,1906,Hits,Nap Lajoie,Cleveland,214
+73,1906,Home Runs,Harry Davis,Philadelphia,12
+74,1906,On Base Percentage,George Stone,St. Louis,.417
+75,1906,RBI,Harry Davis,Philadelphia,96
+76,1906,Runs,Elmer Flick,Cleveland,98
+77,1906,Slugging Average,George Stone,St. Louis,.501
+78,1906,Stolen Bases,John Anderson,Washington,39
+79,1906,Stolen Bases,Elmer Flick,Cleveland,39
+80,1906,Total Bases,George Stone,St. Louis,291
+81,1906,Triples,Elmer Flick,Cleveland,22
+82,1907,Base on Balls,Topsy Hartsel,Philadelphia,106
+83,1907,Batting Average,Ty Cobb,Detroit,.350
+84,1907,Doubles,Harry Davis,Philadelphia,35
+85,1907,Hits,Ty Cobb,Detroit,212
+86,1907,Home Runs,Harry Davis,Philadelphia,8
+87,1907,On Base Percentage,Topsy Hartsel,Philadelphia,.405
+88,1907,RBI,Ty Cobb,Detroit,119
+89,1907,Runs,Sam Crawford,Detroit,102
+90,1907,Slugging Average,Ty Cobb,Detroit,.468
+91,1907,Stolen Bases,Ty Cobb,Detroit,49
+92,1907,Total Bases,Ty Cobb,Detroit,283
+93,1907,Triples,Elmer Flick,Cleveland,18
+94,1908,Base on Balls,Topsy Hartsel,Philadelphia,93
+95,1908,Batting Average,Ty Cobb,Detroit,.324
+96,1908,Doubles,Ty Cobb,Detroit,36
+97,1908,Hits,Ty Cobb,Detroit,188
+98,1908,Home Runs,Sam Crawford,Detroit,7
+99,1908,On Base Percentage,Doc Gessler,Boston,.394
+100,1908,RBI,Ty Cobb,Detroit,108
+101,1908,Runs,Matty McIntyre,Detroit,105
+102,1908,Slugging Average,Ty Cobb,Detroit,.476
+103,1908,Stolen Bases,Patsy Dougherty,Chicago,47
+104,1908,Total Bases,Ty Cobb,Detroit,276
+105,1908,Triples,Ty Cobb,Detroit,20
+106,1909,Base on Balls,Donie Bush,Detroit,88
+107,1909,Batting Average,Ty Cobb,Detroit,.377
+108,1909,Doubles,Sam Crawford,Detroit,35
+109,1909,Hits,Ty Cobb,Detroit,216
+110,1909,Home Runs,Ty Cobb,Detroit,9
+111,1909,On Base Percentage,Ty Cobb,Detroit,.431
+112,1909,RBI,Ty Cobb,Detroit,107
+113,1909,Runs,Ty Cobb,Detroit,116
+114,1909,Slugging Average,Ty Cobb,Detroit,.517
+115,1909,Stolen Bases,Ty Cobb,Detroit,76
+116,1909,Total Bases,Ty Cobb,Detroit,296
+117,1909,Triples,Frank Baker,Philadelphia,19
+118,1910,Base on Balls,Donie Bush,Detroit,78
+119,1910,Batting Average *,Nap Lajoie,Detroit,.384
+120,1910,Doubles,Nap Lajoie,Cleveland,51
+121,1910,Hits,Nap Lajoie,Cleveland,227
+122,1910,Home Runs,Jake Stahl,Boston,10
+123,1910,On Base Percentage,Ty Cobb,Detroit,.455
+124,1910,RBI,Sam Crawford,Detroit,120
+125,1910,Runs,Ty Cobb,Detroit,106
+126,1910,Slugging Average,Ty Cobb,Detroit,.549
+127,1910,Stolen Bases,Eddie Collins,Philadelphia,81
+128,1910,Total Bases,Nap Lajoie,Cleveland,304
+129,1910,Triples,Sam Crawford,Detroit,19
+130,1911,Base on Balls,Donie Bush,Detroit,98
+131,1911,Batting Average,Ty Cobb,Detroit,.419
+132,1911,Doubles,Ty Cobb,Detroit,47
+133,1911,Hits,Ty Cobb,Detroit,248
+134,1911,Home Runs,Frank Baker,Philadelphia,11
+135,1911,On Base Percentage,Joe Jackson,Cleveland,.468
+136,1911,RBI,Ty Cobb,Detroit,127
+137,1911,Runs,Ty Cobb,Detroit,147
+138,1911,Slugging Average,Ty Cobb,Detroit,.620
+139,1911,Stolen Bases,Ty Cobb,Detroit,83
+140,1911,Total Bases,Ty Cobb,Detroit,367
+141,1911,Triples,Ty Cobb,Detroit,24
+142,1912,Base on Balls,Donie Bush,Detroit,117
+143,1912,Batting Average,Ty Cobb,Detroit,.409
+144,1912,Doubles,Tris Speaker,Boston,53
+145,1912,Hits,Ty Cobb,Detroit,226
+146,1912,Hits,Joe Jackson,Cleveland,226
+147,1912,Home Runs,Frank Baker,Philadelphia,10
+148,1912,Home Runs,Tris Speaker,Boston,10
+149,1912,On Base Percentage,Tris Speaker,Boston,.464
+150,1912,RBI,Frank Baker,Philadelphia,130
+151,1912,Runs,Eddie Collins,Philadelphia,137
+152,1912,Slugging Average,Ty Cobb,Detroit,.584
+153,1912,Stolen Bases,Clyde Milan,Washington,88
+154,1912,Total Bases,Joe Jackson,Cleveland,331
+155,1912,Triples,Joe Jackson,Cleveland,26
+156,1913,Base on Balls,Burt Shotton,St. Louis,99
+157,1913,Batting Average,Ty Cobb,Detroit,.389
+158,1913,Doubles,Joe Jackson,Cleveland,39
+159,1913,Hits,Joe Jackson,Cleveland,197
+160,1913,Home Runs,Frank Baker,Philadelphia,12
+161,1913,On Base Percentage,Ty Cobb,Detroit,.466
+162,1913,RBI,Frank Baker,Philadelphia,117
+163,1913,Runs,Eddie Collins,Philadelphia,125
+164,1913,Slugging Average,Joe Jackson,Cleveland,.551
+165,1913,Stolen Bases,Clyde Milan,Washington,75
+166,1913,Total Bases,Sam Crawford,Detroit,298
+167,1913,Triples,Sam Crawford,Detroit,23
+168,1914,Base on Balls,Donie Bush,Detroit,112
+169,1914,Batting Average,Ty Cobb *,Detroit,.368
+170,1914,Doubles,Tris Speaker,Boston,46
+171,1914,Hits,Tris Speaker,Boston,193
+172,1914,Home Runs,Frank Baker,Philadelphia,9
+173,1914,On Base Percentage,Eddie Collins,Philadelphia,.452
+174,1914,RBI,Sam Crawford,Detroit,104
+175,1914,Runs,Eddie Collins,Philadelphia,122
+176,1914,Slugging Average,Tris Speaker,Boston,.503
+177,1914,Stolen Bases,Fritz Maisel,New York,74
+178,1914,Total Bases,Tris Speaker,Boston,287
+179,1914,Triples,Sam Crawford,Detroit,26
+180,1915,Base on Balls,Eddie Collins,Chicago,119
+181,1915,Batting Average,Ty Cobb,Detroit,.369
+182,1915,Doubles,Bobby Veach,Detroit,40
+183,1915,Hits,Ty Cobb,Detroit,208
+184,1915,Home Runs,Braggo Roth,Chicago,7
+185,1915,Home Runs,Braggo Roth,Cleveland,7
+186,1915,On Base Percentage,Ty Cobb,Detroit,.486
+187,1915,RBI,Sam Crawford,Detroit,112
+188,1915,RBI,Bobby Veach,Detroit,112
+189,1915,Runs,Ty Cobb,Detroit,144
+190,1915,Slugging Average,Jack Fournier,Chicago,.491
+191,1915,Stolen Bases,Ty Cobb,Detroit,96
+192,1915,Total Bases,Ty Cobb,Detroit,274
+193,1915,Triples,Sam Crawford,Detroit,19
+194,1916,Base on Balls,Burt Shotton,St. Louis,110
+195,1916,Batting Average,Tris Speaker,Cleveland,.386
+196,1916,Doubles,Jack Graney,Cleveland,41
+197,1916,Doubles,Tris Speaker,Cleveland,41
+198,1916,Hits,Tris Speaker,Cleveland,211
+199,1916,Home Runs,Wally Pipp,New York,12
+200,1916,On Base Percentage,Tris Speaker,Cleveland,.470
+201,1916,RBI,Del Pratt,St. Louis,103
+202,1916,Runs,Ty Cobb,Detroit,113
+203,1916,Slugging Average,Tris Speaker,Cleveland,.502
+204,1916,Stolen Bases,Ty Cobb,Detroit,68
+205,1916,Total Bases,Joe Jackson,Chicago,293
+206,1916,Triples,Joe Jackson,Chicago,21
+207,1917,Base on Balls,Jack Graney,Cleveland,94
+208,1917,Batting Average,Ty Cobb,Detroit,.383
+209,1917,Doubles,Ty Cobb,Detroit,44
+210,1917,Hits,Ty Cobb,Detroit,225
+211,1917,Home Runs,Wally Pipp,New York,9
+212,1917,On Base Percentage,Ty Cobb,Detroit,.444
+213,1917,RBI,Bobby Veach,Detroit,103
+214,1917,Runs,Donie Bush,Detroit,112
+215,1917,Slugging Average,Ty Cobb,Detroit,.570
+216,1917,Stolen Bases,Ty Cobb,Detroit,55
+217,1917,Total Bases,Ty Cobb,Detroit,335
+218,1917,Triples,Ty Cobb,Detroit,24
+219,1918,Base on Balls,Ray Chapman,Cleveland,84
+220,1918,Batting Average,Ty Cobb,Detroit,.382
+221,1918,Doubles,Tris Speaker,Cleveland,33
+222,1918,Hits,George Burns,Philadelphia,178
+223,1918,Home Runs,Babe Ruth,Boston,11
+224,1918,Home Runs,Tilly Walker,Philadelphia,11
+225,1918,On Base Percentage,Ty Cobb,Detroit,.440
+226,1918,RBI,Bobby Veach,Detroit,78
+227,1918,Runs,Ray Chapman,Cleveland,84
+228,1918,Slugging Average,Babe Ruth,Boston,.555
+229,1918,Stolen Bases,George Sisler,St. Louis,45
+230,1918,Total Bases,George Burns,Philadelphia,236
+231,1918,Triples,Ty Cobb,Detroit,14
+232,1919,Base on Balls,Jack Graney,Cleveland,105
+233,1919,Batting Average,Ty Cobb,Detroit,.384
+234,1919,Doubles,Bobby Veach,Detroit,45
+235,1919,Hits,Ty Cobb,Detroit,191
+236,1919,Hits,Bobby Veach,Detroit,191
+237,1919,Home Runs,Babe Ruth,Boston,29
+238,1919,On Base Percentage,Babe Ruth,Boston,.456
+239,1919,RBI,Babe Ruth,Boston,114
+240,1919,Runs,Babe Ruth,Boston,103
+241,1919,Slugging Average,Babe Ruth,Boston,.657
+242,1919,Stolen Bases,Eddie Collins,Chicago,33
+243,1919,Total Bases,Babe Ruth,Boston,284
+244,1919,Triples,Bobby Veach,Detroit,17
+245,1920,Base on Balls,Babe Ruth,New York,150
+246,1920,Batting Average,George Sisler,St. Louis,.407
+247,1920,Doubles,Tris Speaker,Cleveland,50
+248,1920,Hits,George Sisler,St. Louis,257
+249,1920,Home Runs,Babe Ruth,New York,54
+250,1920,On Base Percentage,Babe Ruth,New York,.532
+251,1920,RBI,Babe Ruth,New York,137
+252,1920,Runs,Babe Ruth,New York,158
+253,1920,Slugging Average,Babe Ruth,New York,.847
+254,1920,Stolen Bases,Sam Rice,Washington,63
+255,1920,Total Bases,George Sisler,St. Louis,399
+256,1920,Triples,Joe Jackson,Chicago,20
+257,1921,Base on Balls,Babe Ruth,New York,145
+258,1921,Batting Average,Harry Heilmann,Detroit,.394
+259,1921,Doubles,Tris Speaker,Cleveland,52
+260,1921,Hits,Harry Heilmann,Detroit,237
+261,1921,Home Runs,Babe Ruth,New York,59
+262,1921,On Base Percentage,Babe Ruth,New York,.512
+263,1921,RBI,Babe Ruth,New York,171
+264,1921,Runs,Babe Ruth,New York,177
+265,1921,Slugging Average,Babe Ruth,New York,.846
+266,1921,Stolen Bases,George Sisler,St. Louis,35
+267,1921,Total Bases,Babe Ruth,New York,457
+268,1921,Triples,Howie Shanks,Washington,18
+269,1921,Triples,George Sisler,St. Louis,18
+270,1921,Triples,Jack Tobin,St. Louis,18
+271,1922,Base on Balls,Whitey Witt,New York,89
+272,1922,Batting Average,George Sisler,St. Louis,.420
+273,1922,Doubles,Tris Speaker,Cleveland,48
+274,1922,Hits,George Sisler,St. Louis,246
+275,1922,Home Runs,Ken Williams,St. Louis,39
+276,1922,On Base Percentage,Tris Speaker,Cleveland,.474
+277,1922,RBI,Ken Williams,St. Louis,155
+278,1922,Runs,George Sisler,St. Louis,134
+279,1922,Slugging Average,Babe Ruth,New York,.672
+280,1922,Stolen Bases,George Sisler,St. Louis,51
+281,1922,Total Bases,Ken Williams,St. Louis,367
+282,1922,Triples,George Sisler,St. Louis,18
+283,1923,Base on Balls,Babe Ruth,New York,170
+284,1923,Batting Average,Harry Heilmann,Detroit,.403
+285,1923,Doubles,Tris Speaker,Cleveland,59
+286,1923,Hits,Charlie Jamieson,Cleveland,222
+287,1923,Home Runs,Babe Ruth,New York,41
+288,1923,On Base Percentage,Babe Ruth,New York,.545
+289,1923,RBI,Babe Ruth,New York,131
+290,1923,Runs,Babe Ruth,New York,151
+291,1923,Slugging Average,Babe Ruth,New York,.764
+292,1923,Stolen Bases,Eddie Collins,Chicago,48
+293,1923,Total Bases,Babe Ruth,New York,399
+294,1923,Triples,Goose Goslin,Washington,18
+295,1924,Base on Balls,Babe Ruth,New York,142
+296,1924,Batting Average,Babe Ruth,New York,.378
+297,1924,Doubles,Harry Heilmann,Detroit,45
+298,1924,Doubles,Joe Sewell,Cleveland,45
+299,1924,Hits,Sam Rice,Washington,216
+300,1924,Home Runs,Babe Ruth,New York,46
+301,1924,On Base Percentage,Babe Ruth,New York,.513
+302,1924,RBI,Goose Goslin,Washington,129
+303,1924,Runs,Babe Ruth,New York,143
+304,1924,Slugging Average,Babe Ruth,New York,.739
+305,1924,Stolen Bases,Eddie Collins,Chicago,42
+306,1924,Total Bases,Babe Ruth,New York,391
+307,1925,Base on Balls,Willie Kamm,Chicago,90
+308,1925,Base on Balls,Johnny Mostil,Chicago,90
+309,1925,Batting Average,Harry Heilmann,Detroit,.393
+310,1925,Doubles,Marty McManus,St. Louis,44
+311,1925,Hits,Al Simmons,Philadelphia,253
+312,1925,Home Runs,Bob Meusel,New York,33
+313,1925,On Base Percentage,Tris Speaker,Cleveland,.479
+314,1925,RBI,Bob Meusel,New York,138
+315,1925,Runs,Johnny Mostil,Chicago,135
+316,1925,Slugging Average,Ken Williams,St. Louis,.613
+317,1925,Stolen Bases,Johnny Mostil,Chicago,43
+318,1925,Total Bases,Al Simmons,Philadelphia,392
+319,1926,Base on Balls,Babe Ruth,New York,144
+320,1926,Batting Average,Heinie Manush,Detroit,.378
+321,1926,Doubles,George Burns,Cleveland,64
+322,1926,Hits,Sam Rice,Washington,216
+323,1926,Home Runs,Babe Ruth,New York,47
+324,1926,On Base Percentage,Babe Ruth,New York,.516
+325,1926,RBI,Babe Ruth,New York,146
+326,1926,Runs,Babe Ruth,New York,139
+327,1926,Slugging Average,Babe Ruth,New York,.737
+328,1926,Stolen Bases,Johnny Mostil,Chicago,35
+329,1926,Total Bases,Babe Ruth,New York,365
+330,1927,Base on Balls,Babe Ruth,New York,137
+331,1927,Batting Average,Harry Heilmann,Detroit,.398
+332,1927,Doubles,Lou Gehrig,New York,52
+333,1927,Hits,Earle Combs,New York,231
+334,1927,Home Runs,Babe Ruth,New York,60
+335,1927,On Base Percentage,Babe Ruth,New York,.486
+336,1927,RBI,Lou Gehrig,New York,175
+337,1927,Runs,Babe Ruth,New York,158
+338,1927,Slugging Average,Babe Ruth,New York,.772
+339,1927,Stolen Bases,George Sisler,St. Louis,27
+340,1927,Total Bases,Lou Gehrig,New York,447
+341,1927,Triples,Earle Combs,New York,23
+342,1928,Base on Balls,Babe Ruth,New York,137
+343,1928,Batting Average,Goose Goslin,Washington,.379
+344,1928,Doubles,Lou Gehrig,New York,47
+345,1928,Doubles,Henie Manush,St. Louis,47
+346,1928,Hits,Henie Manush,St. Louis,241
+347,1928,Home Runs,Babe Ruth,New York,54
+348,1928,On Base Percentage,Lou Gehrig,New York,.467
+349,1928,RBI,Lou Gehrig,New York,142
+350,1928,RBI,Babe Ruth,New York,142
+351,1928,Runs,Babe Ruth,New York,163
+352,1928,Slugging Average,Babe Ruth,New York,.709
+353,1928,Stolen Bases,Buddy Myer,Boston,30
+354,1928,Total Bases,Babe Ruth,New York,380
+355,1929,Base on Balls,Max Bishop,Philadelphia,128
+356,1929,Batting Average,Lew Fonseca,Cleveland,.369
+357,1929,Doubles,Charlie Gehringer,Detroit,45
+358,1929,Doubles,Roy Johnson,Detroit,45
+359,1929,Doubles,Henie Manush,St. Louis,45
+360,1929,Hits,Dale Alexander,Detroit,215
+361,1929,Hits,Charlie Gehringer,Detroit,215
+362,1929,Home Runs,Babe Ruth,New York,46
+363,1929,On Base Percentage,Jimmie Foxx,Philadelphia,.463
+364,1929,RBI,Al Simmons,Philadelphia,157
+365,1929,Runs,Charlie Gehringer,Detroit,131
+366,1929,Slugging Average,Babe Ruth,New York,.697
+367,1929,Stolen Bases,Charlie Gehringer,Detroit,27
+368,1929,Total Bases,Al Simmons,Philadelphia,373
+369,1930,Base on Balls,Babe Ruth,New York,136
+370,1930,Batting Average,Al Simmons,Philadelphia,.381
+371,1930,Doubles,Johnny Hodapp,Cleveland,51
+372,1930,Hits,Johnny Hodapp,Cleveland,225
+373,1930,Home Runs,Babe Ruth,New York,49
+374,1930,On Base Percentage,Babe Ruth,New York,.493
+375,1930,RBI,Lou Gehrig,New York,174
+376,1930,Runs,Al Simmons,Philadelphia,152
+377,1930,Slugging Average,Babe Ruth,New York,.732
+378,1930,Stolen Bases,Marty McManus,Detroit,23
+379,1930,Total Bases,Lou Gehrig,New York,419
+380,1931,Base on Balls,Babe Ruth,New York,128
+381,1931,Batting Average,Al Simmons,Philadelphia,.390
+382,1931,Doubles,Earl Webb,Boston,67
+383,1931,Hits,Lou Gehrig,New York,211
+384,1931,Home Runs,Lou Gehrig,New York,46
+385,1931,Home Runs,Babe Ruth,New York,46
+386,1931,On Base Percentage,Babe Ruth,New York,.495
+387,1931,RBI,Lou Gehrig,New York,184
+388,1931,Runs,Lou Gehrig,New York,163
+389,1931,Slugging Average,Babe Ruth,New York,.700
+390,1931,Stolen Bases,Ben Chapman,New York,61
+391,1931,Total Bases,Lou Gehrig,New York,410
+392,1932,Base on Balls,Babe Ruth,New York,130
+393,1932,Batting Average,Dale Alexander *,Detroit,.367
+394,1932,Batting Average,Dale Alexander *,Boston,.367
+395,1932,Batting Average,Dale Alexander *,* NOT on Top 25 List — Had Fewer Than 400 ABs,.367
+396,1932,Doubles,Eric McNair,Philadelphia,47
+397,1932,Hits,Al Simmons,Philadelphia,216
+398,1932,Home Runs,Jimmie Foxx,Philadelphia,58
+399,1932,On Base Percentage,Babe Ruth,New York,.489
+400,1932,RBI,Jimmie Foxx,Philadelphia,169
+401,1932,Runs,Jimmie Foxx,Philadelphia,151
+402,1932,Slugging Average,Jimmie Foxx,Philadelphia,.749
+403,1932,Stolen Bases,Ben Chapman,New York,38
+404,1932,Total Bases,Jimmie Foxx,Philadelphia,438
+405,1932,Triples,Joe Cronin,Washington,18
+406,1933,Base on Balls,Babe Ruth,New York,114
+407,1933,Batting Average,Jimmie Foxx,Philadelphia,.356
+408,1933,Doubles,Joe Cronin,Washington,45
+409,1933,Hits,Heinie Manush,Washington,221
+410,1933,Home Runs,Jimmie Foxx,Philadelphia,48
+411,1933,On Base Percentage,Mickey Cochrane,Philadelphia,.459
+412,1933,RBI,Jimmie Foxx,Philadelphia,163
+413,1933,Runs,Lou Gehrig,New York,138
+414,1933,Slugging Average,Jimmie Foxx,Philadelphia,.703
+415,1933,Stolen Bases,Ben Chapman,New York,27
+416,1933,Total Bases,Jimmie Foxx,Philadelphia,403
+417,1934,Base on Balls,Jimmie Foxx,Philadelphia,111
+418,1934,Batting Average,Lou Gehrig,New York,.363
+419,1934,Doubles,Hank Greenberg,Detroit,63
+420,1934,Hits,Charlie Gehringer,Detroit,214
+421,1934,Home Runs,Lou Gehrig,New York,44
+422,1934,On Base Percentage,Lou Gehrig,New York,.465
+423,1934,RBI,Lou Gehrig,New York,165
+424,1934,Runs,Charlie Gehringer,Detroit,134
+425,1934,Slugging Average,Lou Gehrig,New York,.706
+426,1934,Stolen Bases,Billy Werber,Boston,40
+427,1934,Total Bases,Lou Gehrig,New York,409
+428,1935,Base on Balls,Lou Gehrig,New York,132
+429,1935,Batting Average,Buddy Myer,Washington,.349
+430,1935,Doubles,Joe Vosmik,Cleveland,47
+431,1935,Hits,Joe Vosmik,Cleveland,216
+432,1935,Home Runs,Jimmie Foxx,Philadelphia,36
+433,1935,Home Runs,Hank Greenberg,Detroit,36
+434,1935,On Base Percentage,Lou Gehrig,New York,.466
+435,1935,RBI,Hank Greenberg,Detroit,170
+436,1935,Runs,Lou Gehrig,New York,125
+437,1935,Slugging Average,Jimmie Foxx,Philadelphia,.636
+438,1935,Stolen Bases,Billy Werber,Boston,29
+439,1935,Total Bases,Hank Greenberg,Detroit,389
+440,1935,Triples,Joe Vosmik,Cleveland,20
+441,1936,Base on Balls,Lou Gehrig,New York,130
+442,1936,Batting Average,Luke Appling,Chicago,.388
+443,1936,Doubles,Charlie Gehringer,Detroit,60
+444,1936,Hits,Earl Averill,Cleveland,232
+445,1936,Home Runs,Lou Gehrig,New York,49
+446,1936,On Base Percentage,Lou Gehrig,New York,.478
+447,1936,RBI,Hal Trosky,Cleveland,162
+448,1936,Runs,Lou Gehrig,New York,167
+449,1936,Slugging Average,Lou Gehrig,New York,.696
+450,1936,Stolen Bases,Lyn Lary,St. Louis,37
+451,1936,Total Bases,Hal Trosky,Cleveland,405
+452,1936,Triples,Earl Averill,Cleveland,18
+453,1936,Triples,Joe DiMaggio,New York,18
+454,1936,Triples,Red Rolfe,New York,18
+455,1937,Base on Balls,Lou Gehrig,New York,127
+456,1937,Batting Average,Charlie Gehringer,Detroit,.371
+457,1937,Doubles,Beau Bell,St. Louis,51
+458,1937,Hits,Beau Bell,St. Louis,218
+459,1937,Home Runs,Joe DiMaggio,New York,46
+460,1937,On Base Percentage,Lou Gehrig,New York,.473
+461,1937,RBI,Hank Greenberg,Detroit,183
+462,1937,Runs,Joe DiMaggio,New York,151
+463,1937,Slugging Average,Joe DiMaggio,New York,.673
+464,1937,Stolen Bases,Ben Chapman,Washington,35
+465,1937,Stolen Bases,Ben Chapman,Boston,35
+466,1937,Stolen Bases,Billy Werber,Philadelphia,35
+467,1937,Total Bases,Joe DiMaggio,New York,418
+468,1937,Triples,Mike Kreevich,Chicago,16
+469,1938,Base on Balls,Jimmie Foxx,Boston,119
+470,1938,Base on Balls,Hank Greenberg,Detroit,119
+471,1938,Batting Average,Jimmie Foxx,Boston,.349
+472,1938,Doubles,Joe Cronin,Boston,51
+473,1938,Hits,Joe Vosmik,Boston,201
+474,1938,Home Runs,Hank Greenberg,Detroit,58
+475,1938,On Base Percentage,Jimmie Foxx,Boston,.462
+476,1938,RBI,Jimmie Foxx,Boston,175
+477,1938,Runs,Hank Greenberg,Detroit,144
+478,1938,Slugging Average,Jimmie Foxx,Boston,.704
+479,1938,Stolen Bases,Frankie Crosetti,New York,27
+480,1938,Total Bases,Jimmie Foxx,Boston,398
+481,1939,Base on Balls,Harlond Clift,St. Louis,111
+482,1939,Batting Average,Joe DiMaggio,New York,.381
+483,1939,Doubles,Red Rolfe,New York,46
+484,1939,Hits,Red Rolfe,New York,213
+485,1939,Home Runs,Jimmie Foxx,Boston,35
+486,1939,On Base Percentage,Jimmie Foxx,Boston,.464
+487,1939,RBI,Ted Williams,Boston,145
+488,1939,Runs,Red Rolfe,New York,139
+489,1939,Slugging Average,Jimmie Foxx,Boston,.694
+490,1939,Stolen Bases,George Case,Washington,51
+491,1939,Total Bases,Ted Williams,Boston,344
+492,1940,Base on Balls,Charlie Keller,New York,106
+493,1940,Batting Average,Joe DiMaggio,New York,.352
+494,1940,Doubles,Hank Greenberg,Detroit,50
+495,1940,Hits,Doc Cramer,Boston,200
+496,1940,Hits,Barney McCosky,Detroit,200
+497,1940,Hits,Rip Radcliff,St. Louis,200
+498,1940,Home Runs,Hank Greenberg,Detroit,41
+499,1940,On Base Percentage,Ted Williams,Boston,.442
+500,1940,RBI,Hank Greenberg,Detroit,150
+501,1940,Runs,Ted Williams,Boston,134
+502,1940,Slugging Average,Hank Greenberg,Detroit,.670
+503,1940,Stolen Bases,George Case,Washington,35
+504,1940,Total Bases,Hank Greenberg,Detroit,384
+505,1941,Base on Balls,Ted Williams,Boston,147
+506,1941,Batting Average,Ted Williams,Boston,.406
+507,1941,Doubles,Lou Boudreau,Cleveland,45
+508,1941,Hits,Cecil Travis,Washington,218
+509,1941,Home Runs,Ted Williams,Boston,37
+510,1941,On Base Percentage,Ted Williams,Boston,.551
+511,1941,RBI,Joe DiMaggio,New York,125
+512,1941,Runs,Ted Williams,Boston,135
+513,1941,Slugging Average,Ted Williams,Boston,.735
+514,1941,Stolen Bases,George Case,Washington,33
+515,1941,Total Bases,Joe DiMaggio,New York,348
+516,1941,Triples,Jeff Heath,Cleveland,20
+517,1942,Base on Balls,Ted Williams,Boston,145
+518,1942,Batting Average,Ted Williams,Boston,.356
+519,1942,Doubles,Don Kolloway,Chicago,40
+520,1942,Hits,Johnny Pesky,Boston,205
+521,1942,Home Runs,Ted Williams,Boston,36
+522,1942,On Base Percentage,Ted Williams,Boston,.499
+523,1942,RBI,Ted Williams,Boston,137
+524,1942,Runs,Ted Williams,Boston,141
+525,1942,Slugging Average,Ted Williams,Boston,.648
+526,1942,Stolen Bases,George Case,Washington,44
+527,1942,Total Bases,Ted Williams,Boston,338
+528,1942,Triples,Stan Spence,Washington,15
+529,1943,Base on Balls,Charlie Keller,New York,106
+530,1943,Batting Average,Luke Appling,Chicago,.328
+531,1943,Doubles,Dick Wakefield,Detroit,38
+532,1943,Hits,Dick Wakefield,Detroit,200
+533,1943,Home Runs,Rudy York,Detroit,34
+534,1943,On Base Percentage,Luke Appling,Chicago,.419
+535,1943,RBI,Rudy York,Detroit,118
+536,1943,Runs,George Case,Washington,102
+537,1943,Slugging Average,Rudy York,Detroit,.527
+538,1943,Stolen Bases,George Case,Washington,61
+539,1943,Total Bases,Rudy York,Detroit,301
+540,1943,Triples,Johnny Lindell,New York,12
+541,1944,Base on Balls,Nick Etten,New York,97
+542,1944,Batting Average,Lou Boudreau,Cleveland,.327
+543,1944,Doubles,Lou Boudreau,Cleveland,45
+544,1944,Hits,Snuffy Stirnweiss,New York,205
+545,1944,Home Runs,Nick Etten,New York,22
+546,1944,On Base Percentage,Bob Johnson,Boston,.431
+547,1944,RBI,Vern Stephens,St. Louis,109
+548,1944,Runs,Snuffy Stirnweiss,New York,125
+549,1944,Slugging Average,Bobby Doerr,Boston,.528
+550,1944,Stolen Bases,Snuffy Stirnweiss,New York,55
+551,1944,Total Bases,Johnny Lindell,New York,297
+552,1944,Triples,Johnny Lindell,New York,16
+553,1944,Triples,Snuffy Stirnweiss,New York,16
+554,1945,Base on Balls,Roy Cullenbine,Cleveland,113
+555,1945,Base on Balls,Roy Cullenbine,Detroit,113
+556,1945,Batting Average,Snuffy Stirnweiss,New York,.309
+557,1945,Doubles,Wally Moses,Chicago,35
+558,1945,Hits,Snuffy Stirnweiss,New York,195
+559,1945,Home Runs,Vern Stephens,St. Louis,24
+560,1945,On Base Percentage,Eddie Lake,Boston,.412
+561,1945,RBI,Nick Etten,New York,111
+562,1945,Runs,Snuffy Stirnweiss,New York,107
+563,1945,Slugging Average,Snuffy Stirnweiss,New York,.476
+564,1945,Stolen Bases,Snuffy Stirnweiss,New York,33
+565,1945,Total Bases,Snuffy Stirnweiss,New York,301
+566,1945,Triples,Snuffy Stirnweiss,New York,22
+567,1946,Base on Balls,Ted Williams,Boston,156
+568,1946,Batting Average,Mickey Vernon,Washington,.353
+569,1946,Doubles,Mickey Vernon,Washington,51
+570,1946,Hits,Johnny Pesky,Boston,208
+571,1946,Home Runs,Hank Greenberg,Detroit,44
+572,1946,On Base Percentage,Ted Williams,Boston,.497
+573,1946,RBI,Hank Greenberg,Detroit,127
+574,1946,Runs,Ted Williams,Boston,142
+575,1946,Slugging Average,Ted Williams,Boston,.667
+576,1946,Stolen Bases,George Case,Cleveland,28
+577,1946,Total Bases,Ted Williams,Boston,343
+578,1947,Base on Balls,Ted Williams,Boston,162
+579,1947,Batting Average,Ted Williams,Boston,.343
+580,1947,Doubles,Lou Boudreau,Cleveland,45
+581,1947,Hits,Johnny Pesky,Boston,207
+582,1947,Home Runs,Ted Williams,Boston,32
+583,1947,On Base Percentage,Ted Williams,Boston,.499
+584,1947,RBI,Ted Williams,Boston,114
+585,1947,Runs,Ted Williams,Boston,125
+586,1947,Slugging Average,Ted Williams,Boston,.634
+587,1947,Stolen Bases,Bob Dillinger,St. Louis,34
+588,1947,Total Bases,Ted Williams,Boston,335
+589,1948,Base on Balls,Ted Williams,Boston,126
+590,1948,Batting Average,Ted Williams,Boston,.369
+591,1948,Doubles,Ted Williams,Boston,44
+592,1948,Hits,Bob Dillinger,St. Louis,207
+593,1948,Home Runs,Joe DiMaggio,New York,39
+594,1948,On Base Percentage,Ted Williams,Boston,.497
+595,1948,RBI,Joe DiMaggio,New York,155
+596,1948,Runs,Tommy Henrich,New York,138
+597,1948,Slugging Average,Ted Williams,Boston,.615
+598,1948,Stolen Bases,Bob Dillinger,St. Louis,28
+599,1948,Total Bases,Joe DiMaggio,New York,355
+600,1949,Base on Balls,Ted Williams,Boston,162
+601,1949,Batting Average,George Kell,Detroit,.343
+602,1949,Doubles,Ted Williams,Boston,39
+603,1949,Hits,Dale Mitchell,Cleveland,203
+604,1949,Home Runs,Ted Williams,Boston,43
+605,1949,On Base Percentage,Ted Williams,Boston,.490
+606,1949,RBI,Vern Stephens,Boston,159
+607,1949,RBI,Ted Williams,Boston,159
+608,1949,Runs,Ted Williams,Boston,150
+609,1949,Slugging Average,Ted Williams,Boston,.650
+610,1949,Stolen Bases,Bob Dillinger,St. Louis,20
+611,1949,Total Bases,Ted Williams,Boston,368
+612,1950,Base on Balls,Eddie Yost,Washington,141
+613,1950,Batting Average,Billy Goodman,Boston,.354
+614,1950,Doubles,George Kell,Detroit,56
+615,1950,Hits,George Kell,Detroit,218
+616,1950,Home Runs,Al Rosen,Cleveland,37
+617,1950,On Base Percentage,Larry Doby,Cleveland,.442
+618,1950,RBI,Walt Dropo,Boston,144
+619,1950,RBI,Vern Stephens,Boston,144
+620,1950,Runs,Dom DiMaggio,Boston,131
+621,1950,Slugging Average,Joe DiMaggio,New York,.585
+622,1950,Stolen Bases,Dom DiMaggio,Boston,15
+623,1950,Total Bases,Walt Dropo,Boston,326
+624,1950,Triples,Dom DiMaggio,Boston,11
+625,1950,Triples,Bobby Doerr,Boston,11
+626,1950,Triples,Hoot Evers,Detroit,11
+627,1951,Base on Balls,Ted Williams,Boston,144
+628,1951,Batting Average,Ferris Fain,Philadelphia,.344
+629,1951,Doubles,George Kell,Detroit,36
+630,1951,Doubles,Sam Mele,Washington,36
+631,1951,Doubles,Eddie Yost,Washington,36
+632,1951,Hits,George Kell,Detroit,191
+633,1951,Home Runs,Gus Zernial,Chicago,33
+634,1951,Home Runs,Gus Zernial,Philadelphia,33
+635,1951,On Base Percentage,Ted Williams,Boston,.464
+636,1951,RBI,Gus Zernial,Chicago,129
+637,1951,RBI,Gus Zernial,Philadelphia,129
+638,1951,Runs,Dom DiMaggio,Boston,113
+639,1951,Slugging Average,Ted Williams,Boston,.556
+640,1951,Stolen Bases,Minnie Minoso,Cleveland,31
+641,1951,Stolen Bases,Minnie Minoso,Chicago,31
+642,1951,Total Bases,Ted Williams,Boston,295
+643,1951,Triples,Minnie Minoso,Cleveland,14
+644,1951,Triples,Minnie Minoso,Chicago,14
+645,1952,Base on Balls,Eddie Yost,Washington,129
+646,1952,Batting Average,Ferris Fain,Philadelphia,.327
+647,1952,Doubles,Ferris Fain,Philadelphia,43
+648,1952,Hits,Nellie Fox,Chicago,192
+649,1952,Home Runs,Larry Doby,Cleveland,32
+650,1952,On Base Percentage,Ferris Fain,Philadelphia,.438
+651,1952,RBI,Al Rosen,Cleveland,105
+652,1952,Runs,Larry Doby,Cleveland,104
+653,1952,Slugging Average,Larry Doby,Cleveland,.541
+654,1952,Stolen Bases,Minnie Minoso,Chicago,22
+655,1952,Total Bases,Al Rosen,Cleveland,297
+656,1952,Triples,Bobby Avila,Cleveland,11
+657,1953,Base on Balls,Eddie Yost,Washington,123
+658,1953,Batting Average,Mickey Vernon,Washington,.337
+659,1953,Doubles,Mickey Vernon,Washington,43
+660,1953,Hits,Harvey Kuenn,Detroit,209
+661,1953,Home Runs,Al Rosen,Cleveland,43
+662,1953,On Base Percentage,Gene Woodling,New York,.429
+663,1953,RBI,Al Rosen,Cleveland,145
+664,1953,Runs,Al Rosen,Cleveland,115
+665,1953,Slugging Average,Al Rosen,Cleveland,.613
+666,1953,Stolen Bases,Minnie Minoso,Chicago,25
+667,1953,Total Bases,Al Rosen,Cleveland,367
+668,1953,Triples,Jim Rivera,Chicago,16
+669,1954,Base on Balls,Ted Williams,Boston,136
+670,1954,Batting Average,Bobby Avila,Cleveland,.341
+671,1954,Doubles,Mickey Vernon,Washington,33
+672,1954,Hits,Nellie Fox,Chicago,201
+673,1954,Hits,Harvey Kuenn,Detroit,201
+674,1954,Home Runs,Larry Doby,Cleveland,32
+675,1954,On Base Percentage,Ted Williams,Boston,.516
+676,1954,RBI,Larry Doby,Cleveland,126
+677,1954,Runs,Mickey Mantle,New York,129
+678,1954,Slugging Average,Minnie Minoso,Chicago,.535
+679,1954,Stolen Bases,Jackie Jensen,Boston,22
+680,1954,Total Bases,Minnie Minoso,Chicago,304
+681,1954,Triples,Minnie Minoso,Chicago,18
+682,1955,Base on Balls,Mickey Mantle,New York,113
+683,1955,Batting Average,Al Kaline,Detroit,.340
+684,1955,Doubles,Harvey Kuenn,Detroit,38
+685,1955,Hits,Al Kaline,Detroit,200
+686,1955,Home Runs,Mickey Mantle,New York,37
+687,1955,On Base Percentage,Mickey Mantle,New York,.433
+688,1955,RBI,Ray Boone,Detroit,116
+689,1955,RBI,Jackie Jensen,Boston,116
+690,1955,Runs,Al Smith,Cleveland,123
+691,1955,Slugging Average,Mickey Mantle,New York,.611
+692,1955,Stolen Bases,Jim Rivera,Chicago,25
+693,1955,Total Bases,Al Kaline,Detroit,321
+694,1955,Triples,Mickey Mantle,New York,11
+695,1956,Base on Balls,Eddie Yost,Washington,151
+696,1956,Batting Average,Mickey Mantle,New York,.353
+697,1956,Doubles,Jim Piersall,Boston,40
+698,1956,Hits,Harvey Kuenn,Detroit,196
+699,1956,Home Runs,Mickey Mantle,New York,52
+700,1956,On Base Percentage,Ted Williams,Boston,.479
+701,1956,RBI,Mickey Mantle,New York,130
+702,1956,Runs,Mickey Mantle,New York,132
+703,1956,Slugging Average,Mickey Mantle,New York,.705
+704,1956,Stolen Bases,Luis Aparacio,Chicago,21
+705,1956,Total Bases,Mickey Mantle,New York,376
+706,1956,Triples,Jackie Jensen,Boston,11
+707,1956,Triples,Jim Lemon,Washington,11
+708,1956,Triples,Minnie Minoso,Chicago,11
+709,1956,Triples,Harry Simpson,Kansas City,11
+710,1957,Base on Balls,Mickey Mantle,New York,146
+711,1957,Batting Average,Ted Williams,Boston,.388
+712,1957,Doubles,Billy Gardner,Baltimore,36
+713,1957,Doubles,Minnie Minoso,Chicago,36
+714,1957,Hits,Nellie Fox,Chicago,196
+715,1957,Home Runs,Roy Sievers,Washington,42
+716,1957,On Base Percentage,Ted Williams,Boston,.528
+717,1957,RBI,Roy Sievers,Washington,114
+718,1957,Runs,Mickey Mantle,New York,121
+719,1957,Slugging Average,Ted Williams,Boston,.731
+720,1957,Stolen Bases,Luis Aparicio,Chicago,28
+721,1957,Total Bases,Roy Sievers,Washington,331
+722,1957,Triples,Hank Bauer,New York,9
+723,1957,Triples,Gil McDougald,New York,9
+724,1957,Triples,Harry Simpson,Kansas City,9
+725,1957,Triples,Harry Simpson,New York,9
+726,1958,Base on Balls,Mickey Mantle,New York,129
+727,1958,Batting Average,Ted Williams,Boston,.328
+728,1958,Doubles,Harvey Kuenn,Detroit,39
+729,1958,Hits,Nellie Fox,Chicago,187
+730,1958,Home Runs,Mickey Mantle,New York,42
+731,1958,On Base Percentage,Ted Williams,Boston,.462
+732,1958,RBI,Jackie Jensen,Boston,122
+733,1958,Runs,Mickey Mantle,New York,127
+734,1958,Slugging Average,Rocky Colavito,Cleveland,.620
+735,1958,Stolen Bases,Luis Aparacio,Chicago,29
+736,1958,Total Bases,Mickey Mantle,New York,307
+737,1958,Triples,Vic Power,Kansas City,10
+738,1958,Triples,Vic Power,Cleveland,10
+739,1959,Base on Balls,Eddie Yost,Detroit,135
+740,1959,Batting Average,Harvey Kuenn,Detroit,.353
+741,1959,Doubles,Harvey Kuenn,Detroit,42
+742,1959,Hits,Harvey Kuenn,Detroit,198
+743,1959,Home Runs,Rocky Colavito,Cleveland,42
+744,1959,Home Runs,Harmon Killebrew,Washington,42
+745,1959,On Base Percentage,Eddie Yost,Detroit,.437
+746,1959,RBI,Jackie Jensen,Boston,112
+747,1959,Runs,Eddie Yost,Detroit,115
+748,1959,Slugging Average,Al Kaline,Detroit,.530
+749,1959,Stolen Bases,Luis Aparacio,Chicago,56
+750,1959,Total Bases,Rocky Colavito,Cleveland,301
+751,1959,Triples,Bob Allison,Washington,9
+752,1960,Base on Balls,Eddie Yost,Detroit,125
+753,1960,Batting Average,Pete Runnels,Boston,.320
+754,1960,Doubles,Tito Francona,Cleveland,36
+755,1960,Hits,Minnie Minoso,Chicago,184
+756,1960,Home Runs,Mickey Mantle,New York,40
+757,1960,On Base Percentage,Eddie Yost,Detroit,.416
+758,1960,RBI,Roger Maris,New York,112
+759,1960,Runs,Mickey Mantle,New York,119
+760,1960,Slugging Average,Roger Maris,New York,.581
+761,1960,Stolen Bases,Luis Aparacio,Chicago,51
+762,1960,Total Bases,Mickey Mantle,New York,294
+763,1960,Triples,Nellie Fox,Chicago,10
+764,1961,Base on Balls,Mickey Mantle,New York,126
+765,1961,Batting Average,Norm Cash,Detroit,.361
+766,1961,Doubles,Al Kaline,Detroit,41
+767,1961,Hits,Norm Cash,Detroit,193
+768,1961,Home Runs,Roger Maris,New York,61
+769,1961,On Base Percentage,Norm Cash,Detroit,.488
+770,1961,RBI,Jim Gentile,Baltimore,141
+771,1961,RBI,Roger Maris,New York,141
+772,1961,Runs,Roger Maris,New York,132
+773,1961,Slugging Average,Mickey Mantle,New York,.687
+774,1961,Stolen Bases,Luis Aparacio,Chicago,53
+775,1961,Total Bases,Roger Maris,New York,366
+776,1961,Triples,Jake Wood,Detroit,14
+777,1962,Base on Balls,Mickey Mantle,New York,122
+778,1962,Batting Average,Pete Runnels,Boston,.326
+779,1962,Doubles,Floyd Robinson,Chicago,45
+780,1962,Hits,Bobby Richardson,New York,209
+781,1962,Home Runs,Harmon Killebrew,Minnesota,48
+782,1962,On Base Percentage,Mickey Mantle,New York,.488
+783,1962,RBI,Harmon Killebrew,MInnesota,126
+784,1962,Runs,Albie Pearson,Los Angeles,115
+785,1962,Slugging Average,Mickey Mantle,New York,.605
+786,1962,Stolen Bases,Luis Aparicio,Chicago,31
+787,1962,Total Bases,Rocky Colavito,Detroit,309
+788,1962,Triples,Gino Cimoli,Kansas City,15
+789,1963,Base on Balls,Carl Yastrzemski,Boston,95
+790,1963,Batting Average,Carl Yastrzemski,Boston,.321
+791,1963,Doubles,Carl Yastrzemski,Boston,40
+792,1963,Hits,Carl Yastrzemski,Boston,183
+793,1963,Home Runs,Harmon Killebrew,Minnesota,45
+794,1963,On Base Percentage,Carl Yastrzemski,Boston,.419
+795,1963,RBI,Dick Stuart,Boston,118
+796,1963,Runs,Bob Allison,Minnesota,99
+797,1963,Slugging Average,Harmon Killebrew,Minnesota,.555
+798,1963,Stolen Bases,Luis Aparicio,Baltimore,40
+799,1963,Total Bases,Dick Stuart,Boston,319
+800,1963,Triples,Zoilo Versalles,Minnesota,13
+801,1964,Base on Balls,Norm Siebern,Baltimore,106
+802,1964,Batting Average,Tony Oliva,Minnesota,.323
+803,1964,Doubles,Tony Oliva,Minnesota,43
+804,1964,Hits,Tony Oliva,Minnesota,217
+805,1964,Home Runs,Harmon Killebrew,Minnesota,49
+806,1964,On Base Percentage,Mickey Mantle,New York,.426
+807,1964,RBI,Brooks Robinson,Baltimore,118
+808,1964,Runs,Tony Oliva,Minnesota,109
+809,1964,Slugging Average,Boog Powell,Baltimore,.606
+810,1964,Stolen Bases,Luis Aparicio,Baltimore,57
+811,1964,Total Bases,Tony Oliva,Minnesota,374
+812,1964,Triples,Rich Rollins,Minnesota,10
+813,1964,Triples,Zoilo Versalles,Minnesota,10
+814,1965,Base on Balls,Rocky Colavito,Cleveland,93
+815,1965,Batting Average,Tony Oliva,Minnesota,.321
+816,1965,Doubles,Zoilo Versalles,Minnesota,45
+817,1965,Doubles,Carl Yastrzemski,Boston,45
+818,1965,Hits,Tony Oliva,Minnesota,185
+819,1965,Home Runs,Tony Conigliaro,Boston,32
+820,1965,On Base Percentage,Carl Yastrzemski,Boston,.398
+821,1965,RBI,Rocky Colavito,Cleveland,108
+822,1965,Runs,Zoilo Versalles,Minnesota,126
+823,1965,Slugging Average,Carl Yastrzemski,Boston,.536
+824,1965,Stolen Bases,Bert Campaneris,Kansas City,51
+825,1965,Total Bases,Zoilo Versalles,Minnesota,308
+826,1965,Triples,Bert Campaneris,Kansas City,12
+827,1965,Triples,Zoilo Versalles,Minnesota,12
+828,1966,Base on Balls,Harmon Killebrew,Minnesota,103
+829,1966,Batting Average,Frank Robinson,Baltimore,.316
+830,1966,Doubles,Carl Yastrzemski,Boston,39
+831,1966,Hits,Tony Oliva,Minnesota,191
+832,1966,Home Runs,Frank Robinson,Baltimore,49
+833,1966,On Base Percentage,Frank Robinson,Baltimore,.415
+834,1966,RBI,Frank Robinson,Baltimore,122
+835,1966,Runs,Frank Robinson,Baltimore,122
+836,1966,Slugging Average,Frank Robinson,Baltimore,.637
+837,1966,Stolen Bases,Bert Campaneris,Kansas City,52
+838,1966,Total Bases,Frank Robinson,Baltimore,367
+839,1966,Triples,Bobby Knoop,California,11
+840,1967,Base on Balls,Harmon Killebrew,Minnesota,131
+841,1967,Batting Average,Carl Yastrzemski,Boston,.326
+842,1967,Doubles,Tony Oliva,Minnesota,34
+843,1967,Hits,Carl Yastrzemski,Boston,189
+844,1967,Home Runs,Harmon Killebrew,Minnesota,44
+845,1967,Home Runs,Carl Yastrzemski,Boston,44
+846,1967,On Base Percentage,Carl Yastrzemski,Boston,.421
+847,1967,RBI,Carl Yastrzemski,Boston,121
+848,1967,Runs,Carl Yastrzemski,Boston,112
+849,1967,Slugging Average,Carl Yastrzemski,Boston,.622
+850,1967,Stolen Bases,Bert Campaneris,Kansas City,55
+851,1967,Total Bases,Carl Yastrzemski,Boston,360
+852,1967,Triples,Paul Blair,Baltimore,12
+853,1968,Base on Balls,Carl Yastrzemski,Boston,119
+854,1968,Batting Average,Carl Yastrzemski,Boston,.301
+855,1968,Doubles,Reggie Smith,Boston,37
+856,1968,Hits,Bert Campaneris,Oakland,177
+857,1968,Home Runs,Frank Howard,Washington,44
+858,1968,On Base Percentage,Carl Yastrzemski,Boston,.429
+859,1968,RBI,Ken Harrelson,Boston,109
+860,1968,Runs,Dick McAuliffe,Detroit,95
+861,1968,Slugging Average,Frank Howard,Washington,.552
+862,1968,Stolen Bases,Bert Campaneris,Oakland,62
+863,1968,Total Bases,Frank Howard,Washington,330
+864,1968,Triples,Jim Fregosi,California,13
+865,1969,Base on Balls,Harmon Killebrew,Minnesota,145
+866,1969,Batting Average,Rod Carew,Minnesota,.332
+867,1969,Doubles,Tony Oliva,Minnesota,39
+868,1969,Hits,Tony Oliva,Minnesota,197
+869,1969,Home Runs,Harmon Killebrew,Minnesota,49
+870,1969,On Base Percentage,Harmon Killebrew,Minnesota,.430
+871,1969,RBI,Harmon Killebrew,Minnesota,140
+872,1969,Runs,Reggie Jackson,Oakland,123
+873,1969,Slugging Average,Reggie Jackson,Oakland,.608
+874,1969,Stolen Bases,Tommy Harper,Seattle,73
+875,1969,Total Bases,Frank Howard,Washington,340
+876,1969,Triples,Del Unser,Washington,8
+877,1970,Base on Balls,Frank Howard,Washington,132
+878,1970,Batting Average,Alex Johnson,California,.329
+879,1970,Doubles,Tony Oliva,Minnesota,36
+880,1970,Doubles,Amos Otis,Kansas City,36
+881,1970,Doubles,Cesar Tovar,Minnesota,36
+882,1970,Hits,Tony Oliva,Minnesota,204
+883,1970,Home Runs,Frank Howard,Washington,44
+884,1970,On Base Percentage,Carl Yastrzemski,Boston,.453
+885,1970,RBI,Frank Howard,Washington,126
+886,1970,Runs,Carl Yastrzemski,Boston,125
+887,1970,Slugging Average,Carl Yastrzemski,Boston,.592
+888,1970,Stolen Bases,Bert Campaneris,Oakland,42
+889,1970,Total Bases,Carl Yastrzemski,Boston,335
+890,1970,Triples,Cesar Tovar,Minnesota,13
+891,1971,Base on Balls,Harmon Killebrew,Minnesota,114
+892,1971,Batting Average,Tony Oliva,Minnesota,.337
+893,1971,Doubles,Reggie Smith,Boston,33
+894,1971,Hits,Cesar Tovar,Minnesota,204
+895,1971,Home Runs,Bill Melton,Chicago,33
+896,1971,On Base Percentage,Bobby Murcer,New York,.429
+897,1971,RBI,Harmon Killebrew,Minnesota,119
+898,1971,Runs,Don Buford,Baltimore,99
+899,1971,Slugging Average,Tony Oliva,Minnesota,.546
+900,1971,Stolen Bases,Amos Otis,Kansas City,52
+901,1971,Total Bases,Reggie Smith,Boston,302
+902,1971,Triples,Freddie Patek,Kansas City,11
+903,1972,Base on Balls,Dick Allen,Chicago,99
+904,1972,Base on Balls,Roy White,New York,99
+905,1972,Batting Average,Rod Carew,Minnesota,.318
+906,1972,Doubles,Lou Piniella,Kansas City,33
+907,1972,Hits,Joe Rudi,Oakland,181
+908,1972,Home Runs,Dick Allen,Chicago,37
+909,1972,On Base Percentage,Dick Allen,Chicago,.422
+910,1972,RBI,Dick Allen,Chicago,113
+911,1972,Runs,Bobby Murcer,New York,102
+912,1972,Slugging Average,Dick Allen,Chicago,.603
+913,1972,Stolen Bases,Bert Campaneris,Oakland,52
+914,1972,Total Bases,Bobby Murcer,New York,314
+915,1972,Triples,Joe Rudi,Oakland,9
+916,1973,Base on Balls,John Mayberry,Kansas City,122
+917,1973,Batting Average,Rod Carew,Minnesota,.350
+918,1973,Doubles,Sal Bando,Oakland,32
+919,1973,Doubles,Pedro Garcia,Milwaukee,32
+920,1973,Hits,Rod Carew,Minnesota,203
+921,1973,Home Runs,Reggie Jackson,Oakland,32
+922,1973,On Base Percentage,John Mayberry,Kansas City,.420
+923,1973,RBI,Reggie Jackson,Oakland,117
+924,1973,Runs,Reggie Jackson,Oakland,99
+925,1973,Slugging Average,Reggie Jackson,Oakland,.531
+926,1973,Stolen Bases,Tommy Harper,Boston,54
+927,1973,Total Bases,Sal Bando,Oakland,295
+928,1973,Total Bases,Dave May,Milwaukee,295
+929,1973,Total Bases,George Scott,Milwaukee,295
+930,1973,Triples,Al Bumbry,Baltimore,11
+931,1973,Triples,Rod Carew,Minnesota,11
+932,1974,Base on Balls,Gene Tenace,Oakland,110
+933,1974,Batting Average,Rod Carew,Minnesota,.364
+934,1974,Doubles,Joe Rudi,Oakland,39
+935,1974,Hits,Rod Carew,Minnesota,218
+936,1974,Home Runs,Dick Allen,Chicago,32
+937,1974,On Base Percentage,Rod Carew,Minnesota,.435
+938,1974,RBI,Jeff Burroughs,Texas,118
+939,1974,Runs,Carl Yastrzemski,Boston,93
+940,1974,Slugging Average,Dick Allen,Chicago,.563
+941,1974,Stolen Bases,Billy North,Oakland,54
+942,1974,Total Bases,Joe Rudi,Oakland,287
+943,1974,Triples,Mickey Rivers,California,11
+944,1975,Base on Balls,John Mayberry,Kansas City,119
+945,1975,Batting Average,Rod Carew,Minnesota,.359
+946,1975,Doubles,Fred Lynn,Boston,47
+947,1975,Hits,George Brett,Kansas City,195
+948,1975,Home Runs,Reggie Jackson,Oakland,36
+949,1975,Home Runs,George Scott,Milwaukee,36
+950,1975,On Base Percentage,Rod Carew,Minnesota,.428
+951,1975,RBI,George Scott,Milwaukee,109
+952,1975,Runs,Fred Lynn,Boston,103
+953,1975,Slugging Average,Fred Lynn,Boston,.566
+954,1975,Stolen Bases,Mickey Rivers,California,70
+955,1975,Total Bases,George Scott,Milwaukee,318
+956,1975,Triples,George Brett,Kansas City,13
+957,1975,Triples,Mickey Rivers,California,13
+958,1976,Base on Balls,Mike Hargrove,Texas,97
+959,1976,Batting Average,George Brett,Kansas City,.333
+960,1976,Doubles,Amos Otis,Kansas City,40
+961,1976,Hits,George Brett,Kansas City,215
+962,1976,Home Runs,Graig Nettles,New York,32
+963,1976,On Base Percentage,Hal McRae,Kansas City,.412
+964,1976,RBI,Lee May,Baltimore,109
+965,1976,Runs,Roy White,New York,104
+966,1976,Slugging Average,Reggie Jackson,Baltimore,.502
+967,1976,Stolen Bases,Billy North,Oakland,75
+968,1976,Total Bases,George Brett,Kansas City,298
+969,1976,Triples,George Brett,Kansas City,14
+970,1977,Base on Balls,Toby Harrah,Texas,109
+971,1977,Batting Average,Rod Carew,Minnesota,.388
+972,1977,Doubles,Hal McRae,Kansas City,54
+973,1977,Hits,Rod Carew,Minnesota,239
+974,1977,Home Runs,Jim Rice,Boston,39
+975,1977,On Base Percentage,Rod Carew,Minnesota,.452
+976,1977,RBI,Larry Hisle,Minnesota,119
+977,1977,Runs,Rod Carew,Minnesota,128
+978,1977,Slugging Average,Jim Rice,Boston,.593
+979,1977,Stolen Bases,Freddie Patek,Kansas City,53
+980,1977,Total Bases,Jim Rice,Boston,382
+981,1977,Triples,Rod Carew,Minnesota,16
+982,1978,Base on Balls,Mike Hargrove,Texas,107
+983,1978,Batting Average,Rod Carew,Minnesota,.333
+984,1978,Doubles,George Brett,Kansas City,45
+985,1978,Hits,Jim Rice,Boston,213
+986,1978,Home Runs,Jim Rice,Boston,46
+987,1978,On Base Percentage,Rod Carew,Minnesota,.415
+988,1978,RBI,Jim Rice,Boston,139
+989,1978,Runs,Ron LeFlore,Detroit,126
+990,1978,Slugging Average,Jim Rice,Boston,.600
+991,1978,Stolen Bases,Ron LeFlore,Detroit,68
+992,1978,Total Bases,Jim Rice,Boston,406
+993,1978,Triples,Jim Rice,Boston,15
+994,1979,Base on Balls,Darrell Porter,Kansas City,121
+995,1979,Batting Average,Fred Lynn,Boston,.333
+996,1979,Doubles,Cecil Cooper,Milwaukee,44
+997,1979,Doubles,Chet Lemon,Chicago,44
+998,1979,Hits,George Brett,Kansas City,212
+999,1979,Home Runs,Gorman Thomas,Milwaukee,45
+1000,1979,On Base Percentage,Darrell Porter,Kansas City,.429
+1001,1979,RBI,Don Baylor,California,139
+1002,1979,Runs,Don Baylor,California,120
+1003,1979,Slugging Average,Fred Lynn,Boston,.637
+1004,1979,Stolen Bases,Willie Wilson,Kansas City,83
+1005,1979,Total Bases,Jim Rice,Boston,369
+1006,1979,Triples,George Brett,Kansas City,20
+1007,1980,Base on Balls,Willie Randolph,New York,119
+1008,1980,Batting Average,George Brett,Kansas City,.390
+1009,1980,Doubles,Robin Yount,Milwaukee,49
+1010,1980,Hits,Willie Wilson,Kansas City,230
+1011,1980,Home Runs,Ben Oglivie,Milwaukee,41
+1012,1980,Home Runs,Reggie Jackson,New York,41
+1013,1980,On Base Percentage,George Brett,Kansas City,.461
+1014,1980,RBI,Cecil Cooper,Milwaukee,122
+1015,1980,Runs,Willie Wilson,Kansas City,133
+1016,1980,Slugging Average,George Brett,Kansas City,.664
+1017,1980,Stolen Bases,Rickey Henderson,Oakland,100
+1018,1980,Total Bases,Cecil Cooper,Milwaukee,335
+1019,1980,Triples,Alfredo Griffin,Toronto,15
+1020,1980,Triples,Willie Wilson,Kansas City,15
+1021,1981,Base on Balls,Dwight Evans,Boston,85
+1022,1981,Batting Average,Carney Lansford,Boston,.336
+1023,1981,Doubles,Cecil Cooper,Milwaukee,35
+1024,1981,Hits,Rickey Henderson,Oakland,135
+1025,1981,Home Runs,Tony Armas,Oakland,22
+1026,1981,Home Runs,Dwight Evans,Boston,22
+1027,1981,Home Runs,Bobby Grich,California,22
+1028,1981,Home Runs,Eddie Murray,Baltimore,22
+1029,1981,On Base Percentage,Mike Hargrove,Cleveland,.432
+1030,1981,RBI,Eddie Murray,Baltimore,78
+1031,1981,Runs,Rickey Henderson,Oakland,89
+1032,1981,Slugging Average,Bobby Grich,California,.543
+1033,1981,Stolen Bases,Rickey Henderson,Oakland,56
+1034,1981,Total Bases,Dwight Evans,Boston,215
+1035,1981,Triples,John Castino,Minnesota,9
+1036,1982,Base on Balls,Rickey Henderson,Oakland,116
+1037,1982,Batting Average,Willie Wilson,Kansas City,.332
+1038,1982,Doubles,Hal McRae,Kansas City,46
+1039,1982,Doubles,Robin Yount,Milwaukee,46
+1040,1982,Hits,Robin Yount,Milwaukee,210
+1041,1982,Home Runs,Reggie Jackson,California,39
+1042,1982,Home Runs,Gorman Thomas,Milwaukee,39
+1043,1982,On Base Percentage,Dwight Evans,Boston,.403
+1044,1982,RBI,Hal McRae,Kansas City,133
+1045,1982,Runs,Paul Molitor,Milwaukee,136
+1046,1982,Slugging Average,Robin Yount,Milwaukee,.578
+1047,1982,Stolen Bases,Rickey Henderson,Oakland,130
+1048,1982,Total Bases,Robin Yount,Milwaukee,367
+1049,1982,Triples,Willie Wilson,Kansas City,15
+1050,1983,Base on Balls,Rickey Henderson,Oakland,103
+1051,1983,Batting Average,Wade Boggs,Boston,.361
+1052,1983,Doubles,"Cal Ripken, Jr.",Baltimore,47
+1053,1983,Hits,"Cal Ripken, Jr.",Baltimore,211
+1054,1983,Home Runs,Jim Rice,Boston,39
+1055,1983,On Base Percentage,Wade Boggs,Boston,.449
+1056,1983,RBI,Cecil Cooper,Milwaukee,126
+1057,1983,RBI,Jim Rice,Boston,126
+1058,1983,Runs,"Cal Ripken, Jr.",Baltimore,121
+1059,1983,Slugging Average,George Brett,Kansas City,.563
+1060,1983,Stolen Bases,Rickey Henderson,Oakland,108
+1061,1983,Total Bases,Jim Rice,Boston,344
+1062,1983,Triples,Robin Yount,Milwaukee,10
+1063,1984,Base on Balls,Eddie Murray,Baltimore,107
+1064,1984,Batting Average,Don Mattingly,New York,.343
+1065,1984,Doubles,Don Mattingly,New York,44
+1066,1984,Hits,Don Mattingly,New York,207
+1067,1984,Home Runs,Tony Armas,Boston,43
+1068,1984,On Base Percentage,Eddie Murray,Baltimore,.415
+1069,1984,RBI,Tony Armas,Boston,123
+1070,1984,Runs,Dwight Evans,Boston,121
+1071,1984,Slugging Average,Harold Baines,Chicago,.541
+1072,1984,Stolen Bases,Rickey Henderson,Oakland,66
+1073,1984,Total Bases,Tony Armas,Boston,339
+1074,1984,Triples,Dave Collins,Toronto,15
+1075,1984,Triples,Lloyd Moseby,Toronto,15
+1076,1985,Base on Balls,Dwight Evans,Boston,114
+1077,1985,Batting Average,Wade Boggs,Boston,.368
+1078,1985,Doubles,Don Mattingly,New York,48
+1079,1985,Hits,Wade Boggs,Boston,240
+1080,1985,Home Runs,Darrell Evans,Detroit,40
+1081,1985,On Base Percentage,Wade Boggs,Boston,.452
+1082,1985,RBI,Don Mattingly,New York,145
+1083,1985,Runs,Rickey Henderson,New York,146
+1084,1985,Slugging Average,George Brett,Kansas City,.585
+1085,1985,Stolen Bases,Rickey Henderson,New York,80
+1086,1985,Total Bases,Don Mattingly,New York,370
+1087,1985,Triples,Willie Wilson,Kansas City,21
+1088,1986,Base on Balls,Wade Boggs,Boston,106
+1089,1986,Batting Average,Wade Boggs,Boston,.357
+1090,1986,Doubles,Don Mattingly,New York,53
+1091,1986,Hits,Don Mattingly,New York,238
+1092,1986,Home Runs,Jesse Barfield,Toronto,40
+1093,1986,On Base Percentage,Wade Boggs,Boston,.455
+1094,1986,RBI,Joe Carter,Cleveland,121
+1095,1986,Runs,Rickey Henderson,New York,130
+1096,1986,Slugging Average,Don Mattingly,New York,.573
+1097,1986,Stolen Bases,Rickey Henderson,New York,87
+1098,1986,Total Bases,Don Mattingly,New York,388
+1099,1987,Base on Balls,Dwight Evans,Boston,106
+1100,1987,Batting Average,Wade Boggs,Boston,.363
+1101,1987,Doubles,Paul Molitor,Milwaukee,41
+1102,1987,Hits,Kirby Puckett,Minnesota,207
+1103,1987,Hits,Kevin Seitzer,Kansas City,207
+1104,1987,Home Runs,Mark McGwire,Oakland,49
+1105,1987,On Base Percentage,Wade Boggs,Boston,.467
+1106,1987,RBI,George Bell,Toronto,134
+1107,1987,Runs,Paul Molitor,Milwaukee,114
+1108,1987,Slugging Average,Mark McGwire,Oakland,.618
+1109,1987,Stolen Bases,Harold Reynolds,Seattle,67
+1110,1987,Total Bases,George Bell,Toronto,369
+1111,1988,Base on Balls,Wade Boggs,Boston,125
+1112,1988,Batting Average,Wade Boggs,Boston,.366
+1113,1988,Doubles,Wade Boggs,Boston,45
+1114,1988,Hits,Kirby Puckett,Minnesota,234
+1115,1988,Home Runs,Jose Canseco,Oakland,42
+1116,1988,On Base Percentage,Wade Boggs,Boston,.480
+1117,1988,RBI,Jose Canseco,Oakland,124
+1118,1988,Runs,Wade Boggs,Boston,128
+1119,1988,Slugging Average,Jose Canseco,Oakland,.569
+1120,1988,Stolen Bases,Rickey Henderson,New York,93
+1121,1988,Total Bases,Kirby Puckett,Minnesota,358
+1122,1988,Triples,Harold Reynolds,Seattle,11
+1123,1988,Triples,Willie Wilson,Kansas City,11
+1124,1989,Base on Balls,Rickey Henderson,New York,126
+1125,1989,Base on Balls,Rickey Henderson,Oakland,126
+1126,1989,Batting Average,Kirby Puckett,Minnesota,.339
+1127,1989,Doubles,Wade Boggs,Boston,51
+1128,1989,Hits,Kirby Puckett,Minnesota,215
+1129,1989,Home Runs,Fred McGriff,Toronto,36
+1130,1989,On Base Percentage,Wade Boggs,Boston,.434
+1131,1989,RBI,Ruben Sierra,Texas,119
+1132,1989,Runs,Wade Boggs,Boston,113
+1133,1989,Runs,Rickey Henderson,New York,113
+1134,1989,Runs,Rickey Henderson,Oakland,113
+1135,1989,Slugging Average,Ruben Sierra,Texas,.543
+1136,1989,Stolen Bases,Rickey Henderson,New York,77
+1137,1989,Stolen Bases,Rickey Henderson,Oakland,77
+1138,1989,Total Bases,Ruben Sierra,Texas,344
+1139,1990,Base on Balls,Mark McGwire,Oakland,110
+1140,1990,Batting Average,George Brett,Kansas City,.329
+1141,1990,Doubles,George Brett,Kansas City,45
+1142,1990,Doubles,Jody Reed,Boston,45
+1143,1990,Hits,Rafael Palmeiro,Texas,191
+1144,1990,Home Runs,Cecil Fielder,Detroit,51
+1145,1990,On Base Percentage,Rickey Henderson,Oakland,.441
+1146,1990,RBI,Cecil Fielder,Detroit,132
+1147,1990,Runs,Rickey Henderson,Oakland,119
+1148,1990,Slugging Average,Cecil Fielder,Detroit,.592
+1149,1990,Stolen Bases,Rickey Henderson,Oakland,65
+1150,1990,Total Bases,Cecil Fielder,Detroit,339
+1151,1991,Base on Balls,Frank Thomas,Chicago,138
+1152,1991,Batting Average,Julio Franco,Texas,.341
+1153,1991,Doubles,Rafael Palmeiro,Texas,49
+1154,1991,Hits,Paul Molitor,Milwaukee,216
+1155,1991,Home Runs,Jose Canseco,Oakland,44
+1156,1991,Home Runs,Cecil Fielder,Detroit,44
+1157,1991,On Base Percentage,Frank Thomas,Chicago,.454
+1158,1991,RBI,Cecil Fielder,Detroit,133
+1159,1991,Runs,Paul Molitor,Milwaukee,133
+1160,1991,Slugging Average,Danny Tartabull,Kansas City,.593
+1161,1991,Stolen Bases,Rickey Henderson,Oakland,58
+1162,1991,Total Bases,"Cal Ripken, Jr.",Baltimore,368
+1163,1991,Triples,Lance Johnson,Chicago,12
+1164,1992,Base on Balls,Mickey Tettleton,Detroit,122
+1165,1992,Base on Balls,Frank Thomas,Chicago,122
+1166,1992,Batting Average,Edgar Martinez,Seattle,.343
+1167,1992,Doubles,Edgar Martinez,Seattle,46
+1168,1992,Doubles,Frank Thomas,Chicago,46
+1169,1992,Hits,Kirby Puckett,Minnesota,210
+1170,1992,Home Runs,Juan Gonzalez,Texas,43
+1171,1992,On Base Percentage,Frank Thomas,Chicago,.446
+1172,1992,RBI,Cecil Fielder,Detroit,124
+1173,1992,Runs,Tony Phillips,Detroit,114
+1174,1992,Slugging Average,Mark McGwire,Oakland,.585
+1175,1992,Stolen Bases,Kenny Lofton,Cleveland,66
+1176,1992,Total Bases,Kirby Puckett,Minnesota,313
+1177,1993,Base on Balls,Tony Phillips,Detroit,132
+1178,1993,Batting Average,John Olerud,Toronto,.363
+1179,1993,Doubles,John Olerud,Toronto,54
+1180,1993,Hits,Paul Molitor,Toronto,211
+1181,1993,Home Runs,Juan Gonzalez,Texas,46
+1182,1993,On Base Percentage,John Olerud,Toronto,.478
+1183,1993,RBI,Albert Belle,Cleveland,129
+1184,1993,Runs,Rafael Palmeiro,Texas,124
+1185,1993,Slugging Average,Juan Gonzalez,Texas,.632
+1186,1993,Stolen Bases,Kenny Lofton,Cleveland,70
+1187,1993,Total Bases,"Ken Griffey, Jr.",Seattle,359
+1188,1994,Base on Balls,Frank Thomas,Chicago,109
+1189,1994,Batting Average,Paul O'Neill,New York,.359
+1190,1994,Doubles,Chuck Knoblauch,Minnesota,45
+1191,1994,Hits,Kenny Lofton,Cleveland,160
+1192,1994,Home Runs,"Ken Griffey, Jr.",Seattle,40
+1193,1994,On Base Percentage,Frank Thomas,Chicago,.494
+1194,1994,RBI,Kirby Puckett,Minnesota,112
+1195,1994,Runs,Frank Thomas,Chicago,106
+1196,1994,Slugging Average,Frank Thomas,Chicago,.729
+1197,1994,Stolen Bases,Kenny Lofton,Cleveland,60
+1198,1994,Total Bases,Albert Belle,Cleveland,294
+1199,1995,Base on Balls,Frank Thomas,Chicago,136
+1200,1995,Batting Average,Edgar Martinez,Seattle,.356
+1201,1995,Doubles,Albert Belle,Cleveland,52
+1202,1995,Doubles,Edgar Martinez,Seattle,52
+1203,1995,Hits,Lance Johnson,Chicago,186
+1204,1995,Home Runs,Albert Belle,Cleveland,50
+1205,1995,On Base Percentage,Edgar Martinez,Seattle,.482
+1206,1995,RBI,Albert Belle,Cleveland,126
+1207,1995,RBI,Mo Vaughn,Boston,126
+1208,1995,Runs,Albert Belle,Cleveland,121
+1209,1995,Runs,Edgar Martinez,Seattle,121
+1210,1995,Slugging Average,Albert Belle,Cleveland,.690
+1211,1995,Stolen Bases,Kenny Lofton,Cleveland,54
+1212,1995,Total Bases,Albert Belle,Cleveland,377
+1213,1996,Base on Balls,Tony Phillips,Chicago,125
+1214,1996,Batting Average,Alex Rodriguez,Seattle,.358
+1215,1996,Doubles,Alex Rodriguez,Seattle,54
+1216,1996,Hits,Paul Molitor,Minnesota,225
+1217,1996,Home Runs,Mark McGwire,Oakland,52
+1218,1996,On Base Percentage,Mark McGwire,Oakland,.468
+1219,1996,RBI,Albert Belle,Cleveland,148
+1220,1996,Runs,Alex Rodriguez,Seattle,141
+1221,1996,Slugging Average,Mark McGwire,Oakland,.730
+1222,1996,Stolen Bases,Kenny Lofton,Cleveland,75
+1223,1996,Total Bases,Alex Rodriguez,Seattle,379
+1224,1997,Base on Balls,Jim Thome,Cleveland,120
+1225,1997,Batting Average,Frank Thomas,Chicago,.347
+1226,1997,Doubles,John Valentin,Boston,47
+1227,1997,Hits,Nomar Garciaparra,Boston,209
+1228,1997,Home Runs,"Ken Griffey, Jr.",Seattle,56
+1229,1997,On Base Percentage,Frank Thomas,Chicago,.461
+1230,1997,RBI,"Ken Griffey, Jr.",Seattle,147
+1231,1997,Runs,"Ken Griffey, Jr.",Seattle,125
+1232,1997,Slugging Average,"Ken Griffey, Jr.",Seattle,.646
+1233,1997,Stolen Bases,Brian Hunter,Detroit,74
+1234,1997,Total Bases,"Ken Griffey, Jr.",Seattle,393
+1235,1998,Base on Balls,Rickey Henderson,Oakland,118
+1236,1998,Batting Average,Bernie Williams,New York,.339
+1237,1998,Doubles,Juan Gonzalez,Texas,50
+1238,1998,Hits,Alex Rodriguez,Seattle,213
+1239,1998,Home Runs,"Ken Griffey, Jr.",Seattle,56
+1240,1998,On Base Percentage,Edgar Martinez,Seattle,.433
+1241,1998,RBI,Juan Gonzalez,Texas,157
+1242,1998,Runs,Derek Jeter,New York,127
+1243,1998,Slugging Average,Albert Belle,Chicago,.655
+1244,1998,Stolen Bases,Rickey Henderson,Oakland,66
+1245,1998,Total Bases,Albert Belle,Chicago,399
+1246,1999,Base on Balls,Jim Thome,Cleveland,127
+1247,1999,Batting Average,Nomar Garciaparra,Boston,.357
+1248,1999,Doubles,Shawn Green,Toronto,45
+1249,1999,Hits,Derek Jeter,New York,219
+1250,1999,Home Runs,"Ken Griffey, Jr.",Seattle,48
+1251,1999,On Base Percentage,Edgar Martinez,Seattle,.447
+1252,1999,RBI,Manny Ramirez,Cleveland,165
+1253,1999,Runs,Roberto Alomar,Cleveland,138
+1254,1999,Slugging Average,Manny Ramirez,Cleveland,.663
+1255,1999,Stolen Bases,Brian Hunter,Seattle,44
+1256,1999,Total Bases,Shawn Green,Toronto,361
+1257,2000,Base on Balls,Jason Giambi,Oakland,137
+1258,2000,Batting Average,Nomar Garciaparra,Boston,.372
+1259,2000,Doubles,Carlos Delgado,Toronto,57
+1260,2000,Hits,Darin Erstad,Anaheim,240
+1261,2000,Home Runs,Troy Glaus,Anaheim,47
+1262,2000,On Base Percentage,Jason Giambi,Oakland,.476
+1263,2000,RBI,Edgar Martinez,Seattle,145
+1264,2000,Runs,Johnny Damon,Kansas City,136
+1265,2000,Slugging Average,Manny Ramirez,Cleveland,.697
+1266,2000,Stolen Bases,Johnny Damon,Kansas City,46
+1267,2000,Total Bases,Carlos Delgado,Toronto,378
+1268,2001,Base on Balls,Jason Giambi,Oakland,129
+1269,2001,Batting Average,Ichiro Suzuki,Seattle,.350
+1270,2001,Doubles,Jason Giambi,Oakland,47
+1271,2001,Hits,Ichiro Suzuki,Seattle,242
+1272,2001,Home Runs,Alex Rodriguez,Texas,52
+1273,2001,On Base Percentage,Jason Giambi,Oakland,.477
+1274,2001,RBI,Bret Boone,Seattle,141
+1275,2001,Runs,Alex Rodriguez,Texas,133
+1276,2001,Slugging Average,Jason Giambi,Oakland,.660
+1277,2001,Stolen Bases,Ichiro Suzuki,Seattle,56
+1278,2001,Total Bases,Alex Rodriguez,Texas,393
+1279,2002,Base on Balls,Jim Thome,Cleveland,122
+1280,2002,Batting Average,Manny Ramirez,Boston,.349
+1281,2002,Doubles,Garret Anderson,Anaheim,56
+1282,2002,Doubles,Nomar Garciaparra,Boston,56
+1283,2002,Hits,Alfonso Soriano,New York,209
+1284,2002,Home Runs,Alex Rodriguez,Texas,57
+1285,2002,On Base Percentage,Manny Ramirez,Boston,.450
+1286,2002,RBI,Alex Rodriguez,Texas,142
+1287,2002,Runs,Alfonso Soriano,New York,128
+1288,2002,Slugging Average,Jim Thome,Cleveland,.677
+1289,2002,Stolen Bases,Alfonso Soriano,New York,41
+1290,2002,Total Bases,Alex Rodriguez,Texas,389
+1291,2003,Base on Balls,Jason Giambi,New York,129
+1292,2003,Batting Average,Bill Mueller,Boston,.326
+1293,2003,Doubles,Garret Anderson,Anaheim,49
+1294,2003,Doubles,Vernon Wells,Toronto,49
+1295,2003,Hits,Vernon Wells,Toronto,215
+1296,2003,Home Runs,Alex Rodriguez,Texas,47
+1297,2003,On Base Percentage,Manny Ramirez,Boston,.427
+1298,2003,RBI,Carlos Delgado,Toronto,145
+1299,2003,Runs,Alex Rodriguez,Texas,124
+1300,2003,Slugging Average,Alex Rodriguez,Texas,.600
+1301,2003,Stolen Bases,Carl Crawford,Tampa Bay,55
+1302,2003,Total Bases,Vernon Wells,Toronto,373
+1303,2004,Base on Balls,Eric Chavez,Oakland,95
+1304,2004,Batting Average,Ichiro Suzuki,Seattle,.372
+1305,2004,Doubles,Brian Roberts,Baltimore,50
+1306,2004,Hits,Ichiro Suzuki,Seattle,262
+1307,2004,Home Runs,Manny Ramirez,Boston,43
+1308,2004,On Base Percentage,Melvin Mora,Baltimore,.419
+1309,2004,RBI,Miguel Tejada,Baltimore,150
+1310,2004,Runs,Vladimir Guerrero,Anaheim,124
+1311,2004,Slugging Average,Manny Ramirez,Boston,.613
+1312,2004,Stolen Bases,Carl Crawford,Tampa Bay,59
+1313,2004,Total Bases,Vladimir Guerrero,Anaheim,366
+1314,2005,Base on Balls,Jason Giambi,New York,108
+1315,2005,Batting Average,Michael Young,Texas,.331
+1316,2005,Doubles,Miguel Tejada,Baltimore,50
+1317,2005,Hits,Michael Young,Texas,221
+1318,2005,Home Runs,Alex Rodriguez,New York,48
+1319,2005,On Base Percentage,Jason Giambi,New York,.440
+1320,2005,RBI,David Ortiz,Boston,148
+1321,2005,Runs,Alex Rodriguez,New York,124
+1322,2005,Slugging Average,Alex Rodriguez,New York,.610
+1323,2005,Stolen Bases,Chone Figgins,Los Angeles,62
+1324,2005,Total Bases,Mark Teixeira,Texas,370
+1325,2006,Base on Balls,David Ortiz,Boston,119
+1326,2006,Batting Average,Joe Mauer,Minnesota,.347
+1327,2006,Doubles,Grady Sizemore,Cleveland,53
+1328,2006,Hits,Ichiro Suzuki,Seattle,224
+1329,2006,Home Runs,David Ortiz,Boston,54
+1330,2006,On Base Percentage,Manny Ramirez,Boston,.439
+1331,2006,RBI,David Ortiz,Boston,137
+1332,2006,Runs,Grady Sizemore,Cleveland,134
+1333,2006,Slugging Average,Travis Hafner,Cleveland,.659
+1334,2006,Stolen Bases,Carl Crawford,Tampa Bay,58
+1335,2006,Total Bases,David Ortiz,Boston,355
+1336,2006,Triples,Carl Crawford,Tampa Bay,16
+1337,2007,Base on Balls,David Ortiz,Boston,111
+1338,2007,Batting Average,Magglio Ordonez,Detroit,.363
+1339,2007,Doubles,Magglio Ordonez,Detroit,54
+1340,2007,Hits,Ichiro Suzuki,Seattle,238
+1341,2007,Home Runs,Alex Rodriguez,New York,54
+1342,2007,On Base Percentage,David Ortiz,Boston,.445
+1343,2007,RBI,Alex Rodriguez,New York,156
+1344,2007,Runs,Alex Rodriguez,New York,143
+1345,2007,Slugging Average,Alex Rodriguez,New York,.645
+1346,2007,Stolen Bases,Carl Crawford,Tampa Bay,50
+1347,2007,Stolen Bases,Brian Roberts,Baltimore,50
+1348,2007,Total Bases,Alex Rodriguez,New York,376
+1349,2007,Triples,Curtis Granderson,Detroit,23
+1350,2008,Base on Balls,Jack Cust,Oakland,111
+1351,2008,Batting Average,Joe Mauer,Minnesota,.330
+1352,2008,Doubles,Dustin Pedroia,Boston,54
+1353,2008,Hits,Dustin Pedroia,Boston,213
+1354,2008,Hits,Ichiro Suzuki,Seattle,213
+1355,2008,Home Runs,Miguel Cabrera,Detroit,37
+1356,2008,On Base Percentage,Milton Bradley,Texas,.436
+1357,2008,RBI,Josh Hamilton,Texas,130
+1358,2008,Runs,Dustin Pedroia,Boston,118
+1359,2008,Slugging Average,Alex Rodriguez,New York,.573
+1360,2008,Stolen Bases,Jacoby Ellsbury,Boston,50
+1361,2008,Total Bases,Josh Hamilton,Texas,331
+1362,2008,Triples,Curtis Granderson,Detroit,13
+1363,2009,Base on Balls,Chone Figgins,Los Angeles,101
+1364,2009,Batting Average,Joe Mauer,Minnesota,.365
+1365,2009,Doubles,Brian Roberts,Baltimore,56
+1366,2009,Hits,Ichiro Suzuki,Seattle,225
+1367,2009,Home Runs,Carlos Pena,Tampa Bay,39
+1368,2009,Home Runs,Mark Teixeira,New York,39
+1369,2009,On Base Percentage,Joe Mauer,Minnesota,.444
+1370,2009,RBI,Mark Teixeira,New York,122
+1371,2009,Runs,DustinPedroia,Boston,115
+1372,2009,Slugging Average,Joe Mauer,Minnesota,.587
+1373,2009,Stolen Bases,Jacoby Ellsbury,Boston,70
+1374,2009,Total Bases,Mark Teixeira,New York,344
+1375,2009,Triples,Jacoby Ellsbury,Boston,10
+1376,2010,Base on Balls,Daric Barton,Oakland,110
+1377,2010,Batting Average,Josh Hamilton,Texas,.359
+1378,2010,Doubles,Adrian Beltre,Boston,49
+1379,2010,Hits,Ichiro Suzuki,Seattle,214
+1380,2010,Home Runs,Jose Bautista,Toronto,54
+1381,2010,On Base Percentage,Miguel Cabrera,Detroit,.420
+1382,2010,RBI,Miguel Cabrera,Detroit,126
+1383,2010,Runs,Mark Teixeira,New York,113
+1384,2010,Slugging Average,Josh Hamilton,Texas,.633
+1385,2010,Stolen Bases,Juan Pierre,Chicago,68
+1386,2010,Total Bases,Jose Bautista,Toronto,351
+1387,2010,Triples,Carl Crawford,Tampa Bay,13
+1388,2011,Base on Balls,Jose Bautista,Toronto,132
+1389,2011,Batting Average,Miguel Cabrera,Detroit,.344
+1390,2011,Doubles,Miguel Cabrera,Detroit,48
+1391,2011,Hits,Adrian Gonzalez,Boston,213
+1392,2011,Hits,Michael Young,Texas,213
+1393,2011,Home Runs,Jose Bautista,Toronto,43
+1394,2011,On Base Percentage,Miguel Cabrera,Detroit,.448
+1395,2011,RBI,Curtis Granderson,New York,119
+1396,2011,Runs,Curtis Granderson,New York,136
+1397,2011,Slugging Average,Jose Bautista,Toronto,.608
+1398,2011,Stolen Bases,Coco Crisp,Oakland,49
+1399,2011,Stolen Bases,Brett Gardner,New York,49
+1400,2011,Total Bases,Jacoby Ellsbury,Boston,364
+1401,2011,Triples,Peter Bourjos,Los Angeles,11
+1402,2011,Triples,Austin Jackson,Detroit,11
+1403,2012,Base on Balls,Adam Dunn,Chicago,105
+1404,2012,Batting Average,Miguel Cabrera,Detroit,.330
+1405,2012,Doubles,Alex Gordon,Kansas City,51
+1406,2012,Hits,Derek Jeter,New York,216
+1407,2012,Home Runs,Miguel Cabrera,Detroit,44
+1408,2012,On Base Percentage,Joe Mauer,Minnesota,.416
+1409,2012,RBI,Miguel Cabrera,Detroit,139
+1410,2012,Runs,Mike Trout,Los Angeles,129
+1411,2012,Slugging Average,Miguel Cabrera,Detroit,.606
+1412,2012,Stolen Bases,Mike Trout,Los Angeles,49
+1413,2012,Total Bases,Miguel Cabrera,Detroit,377
+1414,2012,Triples,Austin Jackson,Detroit,10
+1415,2013,Base on Balls,Mike Trout,Los Angeles,110
+1416,2013,Batting Average,Miguel Cabrera,Detroit,.348
+1417,2013,Doubles,Manny Machado,Baltimore,51
+1418,2013,Hits,Adrian Beltre,Texas,199
+1419,2013,Home Runs,Chris Davis,Baltimore,53
+1420,2013,On Base Percentage,Miguel Cabrera,Detroit,.442
+1421,2013,RBI,Chris Davis,Baltimore,138
+1422,2013,Runs,Mike Trout,Los Angeles,109
+1423,2013,Slugging Average,Miguel Cabrera,Detroit,.636
+1424,2013,Stolen Bases,Jacoby Ellsbury,Boston,52
+1425,2013,Total Bases,Chris Davis,Baltimore,370
+1426,2014,Base on Balls,Carlos Santana,Cleveland,113
+1427,2014,Batting Average,Jose Altuve,Houston,.341
+1428,2014,Doubles,Miguel Cabrera,Detroit,52
+1429,2014,Hits,Jose Altuve,Houston,225
+1430,2014,Home Runs,Nelson Cruz,Baltimore,40
+1431,2014,On Base Percentage,Victor Martinez,Detroit,.409
+1432,2014,RBI,Mike Trout,Los Angeles,111
+1433,2014,Runs,Mike Trout,Los Angeles,115
+1434,2014,Slugging Average,Jose Abreu,Chicago,.581
+1435,2014,Stolen Bases,Jose Altuve,Chicago,56
+1436,2014,Total Bases,Mike Trout,Los Angeles,338
+1437,2014,Triples,Michael Bourn,Cleveland,10
+1438,2014,Triples,Adam Eaton,Chicago,10
+1439,2015,Base on Balls,Jose Bautista,Toronto,110
+1440,2015,Batting Average,Miguel Cabrera,Detroit,.338
+1441,2015,Doubles,Michael Brantley,Cleveland,45
+1442,2015,Hits,Jose Altuve,Houston,200
+1443,2015,Home Runs,Chris Davis,Baltimore,47
+1444,2015,On Base Percentage,Miguel Cabrera,Detroit,.440
+1445,2015,RBI,Josh Donaldson,Toronto,123
+1446,2015,Runs,Josh Donaldson,Toronto,122
+1447,2015,Slugging Average,Mike Trout,Los Angeles,.590
+1448,2015,Stolen Bases,Jose Altuve,Houston,38
+1449,2015,Total Bases,Josh Donaldson,Toronto,352
+1450,2016,Base on Balls,Mike Trout,Los Angeles,116
+1451,2016,Batting Average,Jose Altuve,Houston,.338
+1452,2016,Doubles,David Ortiz,Boston,48
+1453,2016,Hits,Jose Altuve,Houston,216
+1454,2016,Home Runs,Mark Trumbo,Baltimore,47
+1455,2016,On Base Percentage,Mike Trout,Los Angeles,.441
+1456,2016,RBI,Edwin Encarnacion,Toronto,127
+1457,2016,RBI,David Ortiz,Boston,127
+1458,2016,Runs,Mike Trout,Los Angeles,123
+1459,2016,Slugging Average,David Ortiz,Boston,.620
+1460,2016,Stolen Bases,Rajai Davis,Cleveland,43
+1461,2016,Total Bases,Mookie Betts,Boston,359
+1462,2017,Base on Balls,Aaron Judge,New York Yankees,127
+1463,2017,Batting Average,Jose Altuve,Houston Astros,.346
+1464,2017,Doubles,Jose Ramirez,Cleveland Indians,56
+1465,2017,Hits,Jose Altuve,Houston Astros,204
+1466,2017,Home Runs,Aaron Judge,New York Yankees,52
+1467,2017,On Base Percentage,Mike Trout,Los Angeles Angels,.442
+1468,2017,RBI,Nelson Cruz,Seattle Mariners,119
+1469,2017,Runs,Aaron Judge,New York Yankees,128
+1470,2017,Slugging Average,Mike Trout,Los Angeles Angels,.629
+1471,2017,Stolen Bases,Whit Merrifield,Kansas City Royals,34
+1472,2017,Total Bases,Jose Abreu,Chicago White Sox,343
+1473,2017,Triples,Nick Castellanos,Detroit Tigers,10
+1474,2018,Base on Balls,Mike Trout,Los Angeles Angels,122
+1475,2018,Batting Average,Mookie Betts,Boston Red Sox,.346
+1476,2018,Doubles,Alex Bregman,Houston Astros,50
+1477,2018,Hits,Whit Merrifield,Kansas City Royals,192
+1478,2018,Home Runs,Khris Davis,Oakland Athletics,48
+1479,2018,On Base Percentage,Mike Trout,Los Angeles Angels,.460
+1480,2018,RBI,J.D. Martinez,Boston Red Sox,130
+1481,2018,Runs,Mookie Betts,Boston Red Sox,129
+1482,2018,Slugging Average,Mookie Betts,Boston Red Sox,.640
+1483,2018,Stolen Bases,Whit Merrifield,Kansas City Royals,45
+1484,2018,Total Bases,J.D. Martinez,Boston Red Sox,358
+1485,2018,Triples,Yolmer Sanchez,Chicago White Sox,10
+1486,2018,Triples,Mallex Smith,Tampa Bay Rays,10
+1487,2019,Base on Balls,Alex Bregman,Houston Astros,119
+1488,2019,Batting Average,Tim Anderson,Chicago White Sox,.335
+1489,2019,Doubles,Rafael Devers,Boston Red Sox,54
+1490,2019,Hits,Whit Merrifield,Kansas City Royals,206
+1491,2019,Home Runs,Jorge Soler,Kansas City Royals,48
+1492,2019,On Base Percentage,Mike Trout,Los Angeles Angels,.438
+1493,2019,RBI,Jose Abreu,Chicago White Sox,123
+1494,2019,Runs,Mookie Betts,Boston Red Sox,135
+1495,2019,Slugging Average,Mike Trout,Los Angeles Angels,.645
+1496,2019,Stolen Bases,Mallex Smith,Tampa Bay Rays,46
+1497,2019,Total Bases,Rafael Devers,Boston Red Sox,359
+1498,2019,Triples,Hunter Dozier,Kansas City Royals,10
+1499,2019,Triples,Whit Merrifield,Kansas City Royals,10
+1500,2020,Base on Balls,Carlos Santana,Cleveland Indians,47
+1501,2020,Batting Average,DJ LeMahieu,New York Yankees,.364
+1502,2020,Doubles,Cesar Hernandez,Cleveland Indians,20
+1503,2020,Hits,Jose Abreu,Chicago White Sox,76
+1504,2020,Home Runs,Luke Voit,New York Yankees,22
+1505,2020,On Base Percentage,DJ LeMahieu,New York Yankees,.421
+1506,2020,RBI,Jose Abreu,Chicago White Sox,60
+1507,2020,Runs,Tim Anderson,Chicago White Sox,45
+1508,2020,Runs,Jose Ramirez,Cleveland Indians,45
+1509,2020,Slugging Average,Jose Abreu,Chicago White Sox,.617
+1510,2020,Stolen Bases,Adalberto Mondesi,Kansas City Royals,24
+1511,2020,Total Bases,Jose Abreu,Chicago White Sox,148
+1512,2020,Triples,Kyle Tucker,Houston Astros,6
+1513,2021,Base on Balls,Joey Gallo,Texas Rangers,111
+1514,2021,Base on Balls,New York Yankees,Texas Rangers,111
+1515,2021,Batting Average,Yuli Gurriel,Houston Astros,.319
+1516,2021,Doubles,Jeimer Candelario,Detroit Tigers,42
+1517,2021,Doubles,J.D. Martinez,Boston Red Sox,42
+1518,2021,Doubles,Whit Merrifield,Kansas City Royals,42
+1519,2021,Hits,Bo Bichette,Toronto Blue Jays,191
+1520,2021,Home Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,48
+1521,2021,Home Runs,Salvador Perez,Kansas City Royals,48
+1522,2021,On Base Percentage,Vladimir Guerrero Jr.,Toronto Blue Jays,.401
+1523,2021,RBI,Salvador Perez,Kansas City Royals,121
+1524,2021,Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,123
+1525,2021,Slugging Average,Vladimir Guerrero Jr.,Toronto Blue Jays,.601
+1526,2021,Stolen Bases,Whit Merrifield,Kansas City Royals,40
+1527,2021,Total Bases,Vladimir Guerrero Jr.,Toronto Blue Jays,363
+1528,2021,Triples,Shohei Ohtani,Los Angeles Angels,8
+1529,2022,Base on Balls,Aaron Judge,New York Yankees,111
+1530,2022,Batting Average,Luis Arraez,Minnesota Twins,.316
+1531,2022,Doubles,José Ramírez,Cleveland Guardians,44
+1532,2022,Hits,Bo Bichette,Toronto Blue Jays,189
+1533,2022,Home Runs,Aaron Judge,New York Yankees,62
+1534,2022,On Base Percentage,Aaron Judge,New York Yankees,.425
+1535,2022,RBI,Aaron Judge,New York Yankees,131
+1536,2022,Runs,Aaron Judge,New York Yankees,133
+1537,2022,Slugging Average,Aaron Judge,New York Yankees,.686
+1538,2022,Stolen Bases,Jorge Mateo,Baltimore Orioles,35
+1539,2022,Total Bases,Aaron Judge,New York Yankees,391
+1540,2022,Triples,Amed Rosario,Cleveland Guardians,9
+1541,2023,Base on Balls,J.P. Crawford,Seattle Mariners,94
+1542,2023,Batting Average,Yandy Díaz,Tampa Bay Rays,.330
+1543,2023,Doubles,Corey Seager,Texas Rangers,42
+1544,2023,Hits,Marcus Semien,Texas Rangers,185
+1545,2023,Home Runs,Shohei Ohtani,Los Angeles Angels,44
+1546,2023,On Base Percentage,Shohei Ohtani,Los Angeles Angels,.412
+1547,2023,RBI,Kyle Tucker,Houston Astros,112
+1548,2023,Runs,Marcus Semien,Texas Rangers,122
+1549,2023,Slugging Average,Shohei Ohtani,Los Angeles Angels,.654
+1550,2023,Stolen Bases,Esteury Ruiz,Oakland Athletics,67
+1551,2023,Total Bases,Shohei Ohtani,Los Angeles Angels,325
+1552,2023,Triples,Bobby Witt Jr.,Kansas City Royals,11
+1553,2024,Base on Balls,Aaron Judge,New York,133
+1554,2024,Batting Average,Bobby Witt Jr.,Kansas City,.332
+1555,2024,Doubles,Jarren Duran,Boston,48
+1556,2024,Hits,Bobby Witt Jr.,Kansas City,211
+1557,2024,Home Runs,Aaron Judge,New York,58
+1558,2024,On Base Percentage,Aaron Judge,New York,.458
+1559,2024,RBI,Aaron Judge,New York,144
+1560,2024,Runs,Juan Soto,New York,128
+1561,2024,Slugging Average,Aaron Judge,New York,.701
+1562,2024,Stolen Bases,Jose Caballero,Tampa Bay,44
+1563,2024,Total Bases,Aaron Judge,New York,392
+1564,2024,Triples,Jarren Duran,Boston,14
+1565,2025,Base on Balls,Aaron Judge,New York,124
+1566,2025,Batting Average,Aaron Judge,New York,.331
+1567,2025,Doubles,Bobby Witt Jr.,Kansas City,47
+1568,2025,Hits,Bobby Witt Jr.,Kansas City,184
+1569,2025,Home Runs,Cal Raleigh,Seattle,60
+1570,2025,On Base Percentage,Aaron Judge,New York,.457
+1571,2025,RBI,Cal Raleigh,Seattle,125
+1572,2025,Runs,Aaron Judge,New York,137
+1573,2025,Slugging Average,Aaron Judge,New York,.688
+1574,2025,Stolen Bases,José Caballero,Tampa Bay (34),49
+1575,2025,Stolen Bases,New York,Tampa Bay (34),49
+1576,2025,Total Bases,Aaron Judge,New York,372
+1577,2025,Triples,Jarren Duran,Boston,13
