@@ -16,12 +16,11 @@ results = []
 year_links = []
 hitting_player_stats = []
 pitching_player_stats = []
-team_standings = []
 hitting_team_stats = []
 pitching_team_stats = []
 
 #The helper function that grabs the text of the columns in each row and convert them to an object and append in into the target list.
-def row_data_grabber(rows, driver, target_list):
+def player_stat_row_grabber(rows, driver, target_list):
     #Keep track of previous column data in the event that the next row does not have the data for that column
     previous_col1 = ''
     previous_col2 = ''
@@ -67,7 +66,7 @@ def row_data_grabber(rows, driver, target_list):
             previous_col4 = col4_text
         else:
             col4_text = previous_col4
-
+        
         each_data_row = {
             "Year" : each_year,
             "Statistic" : col1_text,
@@ -114,12 +113,11 @@ try:
 
                 #Scrape Hitting Player Stats
                 if "Hitting Statistics" in rows[0].text and "Player Review" in rows[0].text:
-                   row_data_grabber(rows, driver, hitting_player_stats)
+                   player_stat_row_grabber(rows, driver, hitting_player_stats)
                 
                 #Scrape Pitching Player Stats
                 if "Pitching Statistics" in rows[0].text and "Pitcher Review" in rows[0].text:
-                    row_data_grabber(rows, driver, pitching_player_stats)
-                   
+                    player_stat_row_grabber(rows, driver, pitching_player_stats)
 
     hitting_player_stats_df = pd.DataFrame(hitting_player_stats)
     pitching_player_stats_df = pd.DataFrame(pitching_player_stats)
