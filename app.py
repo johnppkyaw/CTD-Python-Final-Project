@@ -93,7 +93,7 @@ def update_graphs(symbol, year_range):
     ]
     
     #Trend Line
-    #Group by year and get the max value (the ultimate league leader for that year)
+    #Group by year and get the max value; this prevents when 2 or more players are tied for a lead.
     trend_data = filteredDF.groupby('Year', as_index=False)['Value'].max()
     fig_trend = px.line(
         trend_data, x="Year", y="Value", 
